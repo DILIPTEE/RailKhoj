@@ -11,7 +11,7 @@
     "dev:server": "npm run dev --prefix server",
     "dev:web": "npm run dev --prefix web",
     "dev": "concurrently -n api,web -c green,cyan \"npm run dev:server\" \"npm run dev:web\"",
-    "build": "npm run build --prefix web",
+    "build": "npm run install:all && npm run build --prefix web",
     "sitemap": "node server/scripts/gen-sitemap.mjs",
     "start": "node server/src/index.js"
   },

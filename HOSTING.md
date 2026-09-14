@@ -27,7 +27,8 @@ One web service serves the API + the built frontend — **no disk needed**, so t
 1. Push this repo to GitHub (root = the folder containing `package.json`, `server/`, `web/`).
 2. Render → **New → Web Service** → pick the repo:
    - **Runtime:** `Node`
-   - **Build Command:** `npm run install:all && npm run build`
+   - **Build Command:** `npm run build` (self-installing — it installs
+     `server/` + `web/` dependencies first, including vite)
    - **Start Command:** `node server/src/index.js`
    - **Plan:** `Free` (upgrade to Starter for 24/7 — free sleeps after ~15 min idle)
 3. Environment variables:
@@ -36,10 +37,11 @@ One web service serves the API + the built frontend — **no disk needed**, so t
 4. Health Check Path: `/api/health` → **Create Web Service**.
 
 > ⚠️ **`sh: 1: vite: not found` (exit 127)?** The build didn't install `web/`
-> dependencies. The Build Command MUST be `npm run install:all && npm run build` —
-> a plain `npm install` at the repo root only installs `concurrently`, so `vite`
-> is never installed. The install scripts now use `--include=dev`, so vite is
-> installed even when `NODE_ENV=production` is set.
+> dependencies. `npm run build` at the repo root is now self-installing, so
+> this is fixed — as long as the LATEST commits are pushed to GitHub and the
+> service's Build Command is `npm run build`. Note: never upload
+> `node_modules/` to GitHub — Render installs it fresh (it is gitignored, and
+> Windows-built binaries don't run on Render's Linux).
 
 ---
 

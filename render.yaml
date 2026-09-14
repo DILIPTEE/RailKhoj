@@ -3,15 +3,16 @@
 # No database, no persistent disk needed — the FREE plan works fine here.
 # (Free sleeps after ~15 min idle; change plan to `starter` for 24/7 uptime.)
 #
-# IMPORTANT: buildCommand MUST be `npm run install:all && npm run build`.
-# A plain `npm install` at the repo root only installs `concurrently` — the
-# web/ folder (where vite lives) would stay empty → "sh: 1: vite: not found".
+# IMPORTANT: `npm run build` at the repo root is self-installing — it first
+# runs install:all (server/ + web/ with dev deps, so vite IS installed) and
+# then builds the frontend. Even if the Render dashboard has the wrong build
+# command (e.g. plain `npm run build` with no npm install), it still works.
 services:
   - type: web
     name: railkhoj
     runtime: node
     plan: free
-    buildCommand: npm run install:all && npm run build
+    buildCommand: npm run build
     startCommand: node server/src/index.js
     healthCheckPath: /api/health
     autoDeploy: true
