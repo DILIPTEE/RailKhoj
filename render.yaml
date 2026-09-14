@@ -1,0 +1,24 @@
+# Render blueprint for RailKhoj (bd-train-tracker).
+# ONE Node service = Express API + built React frontend (web/dist), same origin.
+# No database, no persistent disk needed — the FREE plan works fine here.
+# (Free sleeps after ~15 min idle; change plan to `starter` for 24/7 uptime.)
+#
+# IMPORTANT: buildCommand MUST be `npm run install:all && npm run build`.
+# A plain `npm install` at the repo root only installs `concurrently` — the
+# web/ folder (where vite lives) would stay empty → "sh: 1: vite: not found".
+services:
+  - type: web
+    name: railkhoj
+    runtime: node
+    plan: free
+    buildCommand: npm run install:all && npm run build
+    startCommand: node server/src/index.js
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: NODE_ENV
+        value: production
+      # Used for canonical/OG links — set to your real URL when Render asks
+      # (e.g. https://railkhoj.onrender.com or your custom domain).
+      - key: SITE_URL
+        sync: false

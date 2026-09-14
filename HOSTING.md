@@ -20,6 +20,29 @@ npm run sitemap -- --domain https://YOUR-DOMAIN   # optional, SEO
 ```
 
 
+## Deploy to Render (works on the FREE plan)
+
+One web service serves the API + the built frontend — **no disk needed**, so the Free plan works:
+
+1. Push this repo to GitHub (root = the folder containing `package.json`, `server/`, `web/`).
+2. Render → **New → Web Service** → pick the repo:
+   - **Runtime:** `Node`
+   - **Build Command:** `npm run install:all && npm run build`
+   - **Start Command:** `node server/src/index.js`
+   - **Plan:** `Free` (upgrade to Starter for 24/7 — free sleeps after ~15 min idle)
+3. Environment variables:
+   - `NODE_ENV` = `production`
+   - `SITE_URL` = `https://your-app.onrender.com` (used for canonical/OG links)
+4. Health Check Path: `/api/health` → **Create Web Service**.
+
+> ⚠️ **`sh: 1: vite: not found` (exit 127)?** The build didn't install `web/`
+> dependencies. The Build Command MUST be `npm run install:all && npm run build` —
+> a plain `npm install` at the repo root only installs `concurrently`, so `vite`
+> is never installed. The install scripts now use `--include=dev`, so vite is
+> installed even when `NODE_ENV=production` is set.
+
+---
+
 ## Common problems
 
 | Symptom | Fix |

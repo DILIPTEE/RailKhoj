@@ -3,8 +3,11 @@
   "private": true,
   "version": "0.1.0",
   "description": "RailKhoj — live Bangladesh Railway train tracking (schedule engine + community reports)",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
-    "install:all": "npm install --prefix server --no-audit --no-fund && npm install --prefix web --no-audit --no-fund",
+    "install:all": "npm install --include=dev --prefix server --no-audit --no-fund && npm install --include=dev --prefix web --no-audit --no-fund",
     "dev:server": "npm run dev --prefix server",
     "dev:web": "npm run dev --prefix web",
     "dev": "concurrently -n api,web -c green,cyan \"npm run dev:server\" \"npm run dev:web\"",
