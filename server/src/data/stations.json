@@ -1,0 +1,1668 @@
+[
+  {
+    "code": "FEN",
+    "nameEn": "Feni",
+    "nameBn": "Feni",
+    "lat": 23.0159,
+    "lng": 91.3976
+  },
+  {
+    "code": "CHA",
+    "nameEn": "Chattogram",
+    "nameBn": "Chattogram",
+    "lat": 22.3569,
+    "lng": 91.7832
+  },
+  {
+    "code": "BOG",
+    "nameEn": "Bogura",
+    "nameBn": "Bogura",
+    "lat": 24.8465,
+    "lng": 89.3773
+  },
+  {
+    "code": "RAN",
+    "nameEn": "Rangpur",
+    "nameBn": "Rangpur",
+    "lat": 25.7439,
+    "lng": 89.2752
+  },
+  {
+    "code": "DIN",
+    "nameEn": "Dinajpur",
+    "nameBn": "Dinajpur",
+    "lat": 25.6217,
+    "lng": 88.6354
+  },
+  {
+    "code": "CHAP",
+    "nameEn": "Chapainawabganj",
+    "nameBn": "Chapainawabganj",
+    "lat": 24.323896513251228,
+    "lng": 88.63643797650082
+  },
+  {
+    "code": "DHA",
+    "nameEn": "Dhaka",
+    "nameBn": "Dhaka",
+    "lat": 23.8103,
+    "lng": 90.4125
+  },
+  {
+    "code": "COX",
+    "nameEn": "Cox's Bazar",
+    "nameBn": "Cox's Bazar",
+    "lat": 21.4272,
+    "lng": 92.0058
+  },
+  {
+    "code": "KHU",
+    "nameEn": "Khulna",
+    "nameBn": "Khulna",
+    "lat": 22.8456,
+    "lng": 89.5403
+  },
+  {
+    "code": "BHA",
+    "nameEn": "Bhanga_Junction",
+    "nameBn": "Bhanga_Junction",
+    "lat": 23.70650269473803,
+    "lng": 90.29865003401103
+  },
+  {
+    "code": "MAW",
+    "nameEn": "Mawa",
+    "nameBn": "Mawa",
+    "lat": 23.754159691838257,
+    "lng": 90.33578342942685
+  },
+  {
+    "code": "AKK",
+    "nameEn": "Akkelpur",
+    "nameBn": "Akkelpur",
+    "lat": 24.9667,
+    "lng": 88.7167
+  },
+  {
+    "code": "NAT",
+    "nameEn": "Natore",
+    "nameBn": "Natore",
+    "lat": 24.624374999999997,
+    "lng": 89.190275
+  },
+  {
+    "code": "JHI",
+    "nameEn": "Jhikargacha",
+    "nameBn": "Jhikargacha",
+    "lat": 23.126679227453717,
+    "lng": 89.19240836083907
+  },
+  {
+    "code": "NAR",
+    "nameEn": "Narsingdi",
+    "nameBn": "Narsingdi",
+    "lat": 23.9322,
+    "lng": 90.7151
+  },
+  {
+    "code": "NOA",
+    "nameEn": "Noapara",
+    "nameBn": "Noapara",
+    "lat": 23.6333,
+    "lng": 89.55
+  },
+  {
+    "code": "BHE",
+    "nameEn": "Bheramara",
+    "nameBn": "Bheramara",
+    "lat": 24.0219,
+    "lng": 88.9903
+  },
+  {
+    "code": "CUM",
+    "nameEn": "Cumilla",
+    "nameBn": "Cumilla",
+    "lat": 23.558,
+    "lng": 91.16269999999999
+  },
+  {
+    "code": "AMI",
+    "nameEn": "Amirabad",
+    "nameBn": "Amirabad",
+    "lat": 23.677960866654256,
+    "lng": 89.8059601109412
+  },
+  {
+    "code": "SRE",
+    "nameEn": "Sreemangal",
+    "nameBn": "Sreemangal",
+    "lat": 24.3069,
+    "lng": 91.7281
+  },
+  {
+    "code": "SET",
+    "nameEn": "Setabganj",
+    "nameBn": "Setabganj",
+    "lat": 25.55,
+    "lng": 88.75
+  },
+  {
+    "code": "SYL",
+    "nameEn": "Sylhet",
+    "nameBn": "Sylhet",
+    "lat": 24.8949,
+    "lng": 91.8687
+  },
+  {
+    "code": "BEN",
+    "nameEn": "Benapole",
+    "nameBn": "Benapole",
+    "lat": 23.102958454907434,
+    "lng": 89.18361672167815
+  },
+  {
+    "code": "HIL",
+    "nameEn": "Hili",
+    "nameBn": "Hili",
+    "lat": 25.3167,
+    "lng": 89.05
+  },
+  {
+    "code": "PAN",
+    "nameEn": "Panchbibi",
+    "nameBn": "Panchbibi",
+    "lat": 25.09885,
+    "lng": 88.97794999999999
+  },
+  {
+    "code": "JOY",
+    "nameEn": "Joypurhat",
+    "nameBn": "Joypurhat",
+    "lat": 24.901,
+    "lng": 88.9179
+  },
+  {
+    "code": "MYM",
+    "nameEn": "Mymensingh",
+    "nameBn": "Mymensingh",
+    "lat": 24.7471,
+    "lng": 90.4203
+  },
+  {
+    "code": "ISH",
+    "nameEn": "Ishwardi",
+    "nameBn": "Ishwardi",
+    "lat": 24.1289,
+    "lng": 89.0657
+  },
+  {
+    "code": "ULL",
+    "nameEn": "Ullapara",
+    "nameBn": "Ullapara",
+    "lat": 24.3167,
+    "lng": 89.5667
+  },
+  {
+    "code": "PAB",
+    "nameEn": "Pabna",
+    "nameBn": "Pabna",
+    "lat": 24.0064,
+    "lng": 89.2372
+  },
+  {
+    "code": "KOT",
+    "nameEn": "Kotchandpur",
+    "nameBn": "Kotchandpur",
+    "lat": 23.404773690388996,
+    "lng": 89.07717224306869
+  },
+  {
+    "code": "JAS",
+    "nameEn": "Jashore",
+    "nameBn": "Jashore",
+    "lat": 23.1664,
+    "lng": 89.2132
+  },
+  {
+    "code": "KHO",
+    "nameEn": "Kholahati",
+    "nameBn": "Kholahati",
+    "lat": 25.68295,
+    "lng": 89.00469999999999
+  },
+  {
+    "code": "CHI",
+    "nameEn": "Chirirbandar",
+    "nameBn": "Chirirbandar",
+    "lat": 25.65,
+    "lng": 88.85
+  },
+  {
+    "code": "BUR",
+    "nameEn": "Burimari",
+    "nameBn": "Burimari",
+    "lat": 25.93029113778207,
+    "lng": 89.47354568676144
+  },
+  {
+    "code": "PAT",
+    "nameEn": "Patgram",
+    "nameBn": "Patgram",
+    "lat": 25.93588227556414,
+    "lng": 89.48909137352287
+  },
+  {
+    "code": "HAT",
+    "nameEn": "Hatibandha",
+    "nameBn": "Hatibandha",
+    "lat": 25.896660620714314,
+    "lng": 89.50593998069306
+  },
+  {
+    "code": "LAL",
+    "nameEn": "Lalmonirhat",
+    "nameBn": "Lalmonirhat",
+    "lat": 25.9167,
+    "lng": 89.45
+  },
+  {
+    "code": "PANG",
+    "nameEn": "Pangsha",
+    "nameBn": "Pangsha",
+    "lat": 23.77452064693098,
+    "lng": 89.81877057845873
+  },
+  {
+    "code": "KHOK",
+    "nameEn": "Khoksha",
+    "nameBn": "Khoksha",
+    "lat": 23.752709707295185,
+    "lng": 89.77990873646573
+  },
+  {
+    "code": "RAJ",
+    "nameEn": "Rajbari",
+    "nameBn": "Rajbari",
+    "lat": 23.69876032346549,
+    "lng": 89.82683528922935
+  },
+  {
+    "code": "PAR",
+    "nameEn": "Parbatipur",
+    "nameBn": "Parbatipur",
+    "lat": 25.6533,
+    "lng": 88.9172
+  },
+  {
+    "code": "TAN",
+    "nameEn": "Tangail",
+    "nameBn": "Tangail",
+    "lat": 24.2513,
+    "lng": 89.9164
+  },
+  {
+    "code": "KIS",
+    "nameEn": "Kishorganj",
+    "nameBn": "Kishorganj",
+    "lat": 23.97842960246879,
+    "lng": 91.01981434300495
+  },
+  {
+    "code": "CHIL",
+    "nameEn": "Chilahati",
+    "nameBn": "Chilahati",
+    "lat": 25.848264268292663,
+    "lng": 88.72422226854296
+  },
+  {
+    "code": "DOM",
+    "nameEn": "Domar",
+    "nameBn": "Domar",
+    "lat": 25.818193688342237,
+    "lng": 88.81959396361778
+  },
+  {
+    "code": "NIL",
+    "nameEn": "Nilphamari",
+    "nameBn": "Nilphamari",
+    "lat": 25.678326937320776,
+    "lng": 88.82570067784893
+  },
+  {
+    "code": "KUR",
+    "nameEn": "Kurigram",
+    "nameBn": "Kurigram",
+    "lat": 25.504907094986685,
+    "lng": 89.3480875140307
+  },
+  {
+    "code": "SAI",
+    "nameEn": "Saidpur",
+    "nameBn": "Saidpur",
+    "lat": 25.6307257369033,
+    "lng": 88.7891749921084
+  },
+  {
+    "code": "BIR",
+    "nameEn": "Birampur",
+    "nameBn": "Birampur",
+    "lat": 24.997925,
+    "lng": 88.951925
+  },
+  {
+    "code": "FUL",
+    "nameEn": "Fulbari",
+    "nameBn": "Fulbari",
+    "lat": 25.333612499999997,
+    "lng": 88.9325625
+  },
+  {
+    "code": "ABD",
+    "nameEn": "Abdulpur",
+    "nameBn": "Abdulpur",
+    "lat": 24.4542,
+    "lng": 88.9642
+  },
+  {
+    "code": "ADI",
+    "nameEn": "Aditmari",
+    "nameBn": "Aditmari",
+    "lat": 25.953225685740524,
+    "lng": 89.49760120041748
+  },
+  {
+    "code": "AHS",
+    "nameEn": "Ahsanganj",
+    "nameBn": "Ahsanganj",
+    "lat": 24.6167,
+    "lng": 88.95
+  },
+  {
+    "code": "AKH",
+    "nameEn": "Akhanagar",
+    "nameBn": "Akhanagar",
+    "lat": 25.35,
+    "lng": 88.95
+  },
+  {
+    "code": "AKHA",
+    "nameEn": "Akhaura",
+    "nameBn": "Akhaura",
+    "lat": 23.8667,
+    "lng": 91.2167
+  },
+  {
+    "code": "ALA",
+    "nameEn": "Alamdanga",
+    "nameBn": "Alamdanga",
+    "lat": 23.74356618828645,
+    "lng": 88.87962221576582
+  },
+  {
+    "code": "AMN",
+    "nameEn": "Amnura",
+    "nameBn": "Amnura",
+    "lat": 24.35342130902484,
+    "lng": 88.57609869780299
+  },
+  {
+    "code": "AMNU",
+    "nameEn": "Amnura_Bypass",
+    "nameBn": "Amnura_Bypass",
+    "lat": 24.35571757771662,
+    "lng": 88.63407574107202
+  },
+  {
+    "code": "ARA",
+    "nameEn": "Arani",
+    "nameBn": "Arani",
+    "lat": 24.439673690388997,
+    "lng": 89.0177722430687
+  },
+  {
+    "code": "ASH",
+    "nameEn": "Ashuganj",
+    "nameBn": "Ashuganj",
+    "lat": 24.0167,
+    "lng": 91
+  },
+  {
+    "code": "ATH",
+    "nameEn": "Atharabari",
+    "nameBn": "Atharabari",
+    "lat": 24.370051932782744,
+    "lng": 90.65804466755667
+  },
+  {
+    "code": "AZA",
+    "nameEn": "Azampur",
+    "nameBn": "Azampur",
+    "lat": 23.984741410032797,
+    "lng": 91.17727848345503
+  },
+  {
+    "code": "AZI",
+    "nameEn": "Azim Nagar",
+    "nameBn": "Azim Nagar",
+    "lat": 24.29755,
+    "lng": 89.01095
+  },
+  {
+    "code": "BAD",
+    "nameEn": "Badarganj",
+    "nameBn": "Badarganj",
+    "lat": 25.6966,
+    "lng": 89.09219999999999
+  },
+  {
+    "code": "BADH",
+    "nameEn": "Badherhat",
+    "nameBn": "Badherhat",
+    "lat": 23.94886263851728,
+    "lng": 89.20387114883438
+  },
+  {
+    "code": "BADI",
+    "nameEn": "Badiakhali",
+    "nameBn": "Badiakhali",
+    "lat": 24.774848238453032,
+    "lng": 89.39223170251178
+  },
+  {
+    "code": "BAH",
+    "nameEn": "Baharpur",
+    "nameBn": "Baharpur",
+    "lat": 23.690492969429478,
+    "lng": 89.9672318106909
+  },
+  {
+    "code": "BAJ",
+    "nameEn": "Bajitpur",
+    "nameBn": "Bajitpur",
+    "lat": 24.07036401077054,
+    "lng": 90.94162041296899
+  },
+  {
+    "code": "BAJR",
+    "nameEn": "Bajra",
+    "nameBn": "Bajra",
+    "lat": 22.71286406447433,
+    "lng": 90.98800490691063
+  },
+  {
+    "code": "BAM",
+    "nameEn": "Bamondanga",
+    "nameBn": "Bamondanga",
+    "lat": 24.809162706430577,
+    "lng": 89.43486426953294
+  },
+  {
+    "code": "BAR",
+    "nameEn": "Baramchal",
+    "nameBn": "Baramchal",
+    "lat": 24.6457,
+    "lng": 91.31434999999999
+  },
+  {
+    "code": "BARH",
+    "nameEn": "Barhatta",
+    "nameBn": "Barhatta",
+    "lat": 24.863241235825175,
+    "lng": 90.24478144532739
+  },
+  {
+    "code": "BARK",
+    "nameEn": "Barkhata",
+    "nameBn": "Barkhata",
+    "lat": 25.954001263814543,
+    "lng": 89.46578963014848
+  },
+  {
+    "code": "BAU",
+    "nameEn": "Baura",
+    "nameBn": "Baura",
+    "lat": 25.921763287313734,
+    "lng": 89.51639311689725
+  },
+  {
+    "code": "BHAI",
+    "nameEn": "Bhairab_Bazar",
+    "nameBn": "Bhairab_Bazar",
+    "lat": 24.0473,
+    "lng": 90.9857
+  },
+  {
+    "code": "BHAN",
+    "nameEn": "Bhanga",
+    "nameBn": "Bhanga",
+    "lat": 23.71265,
+    "lng": 90.1237
+  },
+  {
+    "code": "BHANU",
+    "nameEn": "Bhanugach",
+    "nameBn": "Bhanugach",
+    "lat": 24.45,
+    "lng": 91.7333
+  },
+  {
+    "code": "BHAT",
+    "nameEn": "Bhatiary",
+    "nameBn": "Bhatiary",
+    "lat": 22.6924,
+    "lng": 91.59239999999998
+  },
+  {
+    "code": "BHO",
+    "nameEn": "Bhomradah",
+    "nameBn": "Bhomradah",
+    "lat": 25.45,
+    "lng": 88.85
+  },
+  {
+    "code": "BHU",
+    "nameEn": "Bhuapur",
+    "nameBn": "Bhuapur",
+    "lat": 24.844199705502138,
+    "lng": 89.87431808295096
+  },
+  {
+    "code": "BID",
+    "nameEn": "Bidyaganj",
+    "nameBn": "Bidyaganj",
+    "lat": 24.714599999999997,
+    "lng": 90.36600834875401
+  },
+  {
+    "code": "BIM",
+    "nameEn": "Biman_Bandar",
+    "nameBn": "Biman_Bandar",
+    "lat": 23.0896,
+    "lng": 91.09984999999999
+  },
+  {
+    "code": "BOA",
+    "nameEn": "Boalmari_Bazar",
+    "nameBn": "Boalmari_Bazar",
+    "lat": 23.676647675816668,
+    "lng": 90.13580006802209
+  },
+  {
+    "code": "BON",
+    "nameEn": "Bonar_Para",
+    "nameBn": "Bonar_Para",
+    "lat": 24.82045765202974,
+    "lng": 89.43752301704488
+  },
+  {
+    "code": "BOR",
+    "nameEn": "Boral_Bridge",
+    "nameBn": "Boral_Bridge",
+    "lat": 24.297124999999998,
+    "lng": 89.288825
+  },
+  {
+    "code": "BORA",
+    "nameEn": "Borashi",
+    "nameBn": "Borashi",
+    "lat": 23.67056238925925,
+    "lng": 90.22041422239452
+  },
+  {
+    "code": "BRA",
+    "nameEn": "Brahmanbaria",
+    "nameBn": "Brahmanbaria",
+    "lat": 23.9608,
+    "lng": 91.1115
+  },
+  {
+    "code": "CHAK",
+    "nameEn": "Chakaria",
+    "nameBn": "Chakaria",
+    "lat": 22.449306707676968,
+    "lng": 92.00646948499866
+  },
+  {
+    "code": "CHAN",
+    "nameEn": "Chandpur",
+    "nameBn": "Chandpur",
+    "lat": 23.2333,
+    "lng": 90.6712
+  },
+  {
+    "code": "CHAND",
+    "nameEn": "Chandpur_Court",
+    "nameBn": "Chandpur_Court",
+    "lat": 23.104709097642253,
+    "lng": 91.00551681965722
+  },
+  {
+    "code": "CHANDR",
+    "nameEn": "Chandradighalia",
+    "nameBn": "Chandradighalia",
+    "lat": 23.539604125514206,
+    "lng": 90.14903036647706
+  },
+  {
+    "code": "CHAPT",
+    "nameEn": "Chapta",
+    "nameBn": "Chapta",
+    "lat": 23.528971760609643,
+    "lng": 90.17469916602975
+  },
+  {
+    "code": "CHAT",
+    "nameEn": "Chatmohar",
+    "nameBn": "Chatmohar",
+    "lat": 24.3412875,
+    "lng": 89.27513750000001
+  },
+  {
+    "code": "CHIT",
+    "nameEn": "Chitoshi_Road",
+    "nameBn": "Chitoshi_Road",
+    "lat": 23.203716721678152,
+    "lng": 91.18014154509255
+  },
+  {
+    "code": "CHO",
+    "nameEn": "Choto Bahirbag",
+    "nameBn": "Choto Bahirbag",
+    "lat": 23.461500444944612,
+    "lng": 90.13171519736201
+  },
+  {
+    "code": "CHOU",
+    "nameEn": "Choumuhani",
+    "nameBn": "Choumuhani",
+    "lat": 22.677508725415002,
+    "lng": 91.02336024596995
+  },
+  {
+    "code": "CHU",
+    "nameEn": "Chuadanga",
+    "nameBn": "Chuadanga",
+    "lat": 23.6402,
+    "lng": 88.842
+  },
+  {
+    "code": "DAR",
+    "nameEn": "Darshana_Halt",
+    "nameBn": "Darshana_Halt",
+    "lat": 23.477133526661735,
+    "lng": 88.99771856590588
+  },
+  {
+    "code": "DAS",
+    "nameEn": "Dashuria",
+    "nameBn": "Dashuria",
+    "lat": 24.320595847576886,
+    "lng": 89.28240892462718
+  },
+  {
+    "code": "DAU",
+    "nameEn": "Daulatpur",
+    "nameBn": "Daulatpur",
+    "lat": 23.23745,
+    "lng": 89.54915000000001
+  },
+  {
+    "code": "DEW",
+    "nameEn": "Dewanganj_Bazar",
+    "nameBn": "Dewanganj_Bazar",
+    "lat": 25.1444,
+    "lng": 89.7833
+  },
+  {
+    "code": "DHAL",
+    "nameEn": "Dhalarchar",
+    "nameBn": "Dhalarchar",
+    "lat": 23.896818583209907,
+    "lng": 89.22761286829775
+  },
+  {
+    "code": "DOH",
+    "nameEn": "Dohazari",
+    "nameBn": "Dohazari",
+    "lat": 22.434085695267253,
+    "lng": 91.858957415072
+  },
+  {
+    "code": "DUB",
+    "nameEn": "Dublia",
+    "nameBn": "Dublia",
+    "lat": 23.883118012900848,
+    "lng": 89.19604252887338
+  },
+  {
+    "code": "DUL",
+    "nameEn": "Dulahazara",
+    "nameBn": "Dulahazara",
+    "lat": 22.470950669070778,
+    "lng": 91.90883988428666
+  },
+  {
+    "code": "FAR",
+    "nameEn": "Faridpur",
+    "nameBn": "Faridpur",
+    "lat": 23.607,
+    "lng": 89.8429
+  },
+  {
+    "code": "GAC",
+    "nameEn": "Gachihata",
+    "nameBn": "Gachihata",
+    "lat": 23.89402719955231,
+    "lng": 91.0819684795254
+  },
+  {
+    "code": "GAF",
+    "nameEn": "Gafargaon",
+    "nameBn": "Gafargaon",
+    "lat": 24.4333,
+    "lng": 90.5667
+  },
+  {
+    "code": "GAI",
+    "nameEn": "Gaibandha",
+    "nameBn": "Gaibandha",
+    "lat": 24.717238824876326,
+    "lng": 89.34294038797869
+  },
+  {
+    "code": "GOB",
+    "nameEn": "Gobra",
+    "nameBn": "Gobra",
+    "lat": 23.587,
+    "lng": 90.32
+  },
+  {
+    "code": "GOM",
+    "nameEn": "GOMDANDI",
+    "nameBn": "GOMDANDI",
+    "lat": 22.40829483100869,
+    "lng": 91.89768236310606
+  },
+  {
+    "code": "GOP",
+    "nameEn": "Gopalganj",
+    "nameBn": "Gopalganj",
+    "lat": 23.531760108666916,
+    "lng": 90.23868788930533
+  },
+  {
+    "code": "GOU",
+    "nameEn": "Gouripur_Myn",
+    "nameBn": "Gouripur_Myn",
+    "lat": 24.7696742630967,
+    "lng": 90.2922749921084
+  },
+  {
+    "code": "GUN",
+    "nameEn": "Gunabati",
+    "nameBn": "Gunabati",
+    "lat": 23.0167,
+    "lng": 91.4
+  },
+  {
+    "code": "HAJ",
+    "nameEn": "Hajiganj",
+    "nameBn": "Hajiganj",
+    "lat": 23.043680584543758,
+    "lng": 91.23224786170894
+  },
+  {
+    "code": "HAR",
+    "nameEn": "Harashpur",
+    "nameBn": "Harashpur",
+    "lat": 23.91243357346805,
+    "lng": 91.12897673778171
+  },
+  {
+    "code": "HARB",
+    "nameEn": "HARBANG",
+    "nameBn": "HARBANG",
+    "lat": 22.494301840355025,
+    "lng": 92.06009259601699
+  },
+  {
+    "code": "HAS",
+    "nameEn": "Hasanpur",
+    "nameBn": "Hasanpur",
+    "lat": 23.06425,
+    "lng": 91.331375
+  },
+  {
+    "code": "HEM",
+    "nameEn": "Hemnagar",
+    "nameBn": "Hemnagar",
+    "lat": 24.861514874617185,
+    "lng": 89.95242176352056
+  },
+  {
+    "code": "HIT",
+    "nameEn": "Hi-Tech City",
+    "nameBn": "Hi-Tech City",
+    "lat": 24.05775,
+    "lng": 90.292475
+  },
+  {
+    "code": "IBR",
+    "nameEn": "Ibrahimabad",
+    "nameBn": "Ibrahimabad",
+    "lat": 24.273999999999997,
+    "lng": 89.74354999999998
+  },
+  {
+    "code": "ISHW",
+    "nameEn": "Ishwardi Bypass",
+    "nameBn": "Ishwardi Bypass",
+    "lat": 24.38545,
+    "lng": 89.26545
+  },
+  {
+    "code": "ISL",
+    "nameEn": "ISLAMABAD",
+    "nameBn": "ISLAMABAD",
+    "lat": 22.208013001803085,
+    "lng": 91.931079913215
+  },
+  {
+    "code": "ISLA",
+    "nameEn": "Islampur_Bazar",
+    "nameBn": "Islampur_Bazar",
+    "lat": 24.885289675004653,
+    "lng": 89.91205171597996
+  },
+  {
+    "code": "JAF",
+    "nameEn": "Jaforshahi",
+    "nameBn": "Jaforshahi",
+    "lat": 24.70005,
+    "lng": 89.956904174377
+  },
+  {
+    "code": "JAG",
+    "nameEn": "Jagannathgonj_Bazar",
+    "nameBn": "Jagannathgonj_Bazar",
+    "lat": 24.802532687672375,
+    "lng": 89.89837454691131
+  },
+  {
+    "code": "JAM",
+    "nameEn": "Jamalganj",
+    "nameBn": "Jamalganj",
+    "lat": 24.93785,
+    "lng": 88.8173
+  },
+  {
+    "code": "JAMA",
+    "nameEn": "Jamalpur_Town",
+    "nameBn": "Jamalpur_Town",
+    "lat": 24.699399999999997,
+    "lng": 90.072508348754
+  },
+  {
+    "code": "JAMT",
+    "nameEn": "Jamtail",
+    "nameBn": "Jamtail",
+    "lat": 24.307025,
+    "lng": 89.61591250000001
+  },
+  {
+    "code": "JAN",
+    "nameEn": "Janali_Hat",
+    "nameBn": "Janali_Hat",
+    "lat": 22.38471980515339,
+    "lng": 91.81101980515338
+  },
+  {
+    "code": "JOYD",
+    "nameEn": "Joydebpur",
+    "nameBn": "Joydebpur",
+    "lat": 23.9999,
+    "lng": 90.4205
+  },
+  {
+    "code": "KAK",
+    "nameEn": "Kakonhat",
+    "nameBn": "Kakonhat",
+    "lat": 24.34748217822167,
+    "lng": 88.56741614958337
+  },
+  {
+    "code": "KAL",
+    "nameEn": "Kalukhali",
+    "nameBn": "Kalukhali",
+    "lat": 23.742640485198237,
+    "lng": 89.82680293384404
+  },
+  {
+    "code": "KAN",
+    "nameEn": "Kanchan_Junction",
+    "nameBn": "Kanchan_Junction",
+    "lat": 25.6,
+    "lng": 88.65
+  },
+  {
+    "code": "KANK",
+    "nameEn": "Kankina",
+    "nameBn": "Kankina",
+    "lat": 25.934962842870263,
+    "lng": 89.47380060020873
+  },
+  {
+    "code": "KAO",
+    "nameEn": "Kaoraid",
+    "nameBn": "Kaoraid",
+    "lat": 24.31795,
+    "lng": 90.52115
+  },
+  {
+    "code": "KAS",
+    "nameEn": "Kashiani",
+    "nameBn": "Kashiani",
+    "lat": 23.598705389476066,
+    "lng": 90.1808000680221
+  },
+  {
+    "code": "KASH",
+    "nameEn": "Kashinathpur",
+    "nameBn": "Kashinathpur",
+    "lat": 24.00890669382466,
+    "lng": 89.19212942937101
+  },
+  {
+    "code": "KAU",
+    "nameEn": "Kaunia",
+    "nameBn": "Kaunia",
+    "lat": 25.269914189973367,
+    "lng": 89.41297502806138
+  },
+  {
+    "code": "KAW",
+    "nameEn": "Kawgaon",
+    "nameBn": "Kawgaon",
+    "lat": 25.6,
+    "lng": 88.8
+  },
+  {
+    "code": "KEN",
+    "nameEn": "Kendua_Bazar",
+    "nameBn": "Kendua_Bazar",
+    "lat": 24.70405,
+    "lng": 89.94890417437699
+  },
+  {
+    "code": "KHA",
+    "nameEn": "Khatra",
+    "nameBn": "Khatra",
+    "lat": 23.628781194629624,
+    "lng": 90.27420711119727
+  },
+  {
+    "code": "KISM",
+    "nameEn": "Kismat",
+    "nameBn": "Kismat",
+    "lat": 25.25,
+    "lng": 89.05
+  },
+  {
+    "code": "KUL",
+    "nameEn": "Kulaura",
+    "nameBn": "Kulaura",
+    "lat": 24.5167,
+    "lng": 92.05
+  },
+  {
+    "code": "KULI",
+    "nameEn": "Kuliarchar",
+    "nameBn": "Kuliarchar",
+    "lat": 24.176805310751927,
+    "lng": 90.99703024655719
+  },
+  {
+    "code": "KUM",
+    "nameEn": "Kumarkhali",
+    "nameBn": "Kumarkhali",
+    "lat": 23.745804237477284,
+    "lng": 89.76047781546923
+  },
+  {
+    "code": "KUMI",
+    "nameEn": "Kumira",
+    "nameBn": "Kumira",
+    "lat": 22.694399999999998,
+    "lng": 91.5884
+  },
+  {
+    "code": "KUS",
+    "nameEn": "Kushtia_Court",
+    "nameBn": "Kushtia_Court",
+    "lat": 23.722898767659387,
+    "lng": 89.74504689447272
+  },
+  {
+    "code": "LAK",
+    "nameEn": "Laksam",
+    "nameBn": "Laksam",
+    "lat": 23.2333,
+    "lng": 91.1167
+  },
+  {
+    "code": "LOH",
+    "nameEn": "LOHAGARA",
+    "nameBn": "LOHAGARA",
+    "lat": 22.481252434389727,
+    "lng": 91.99533240946461
+  },
+  {
+    "code": "LOHA",
+    "nameEn": "Lohagora",
+    "nameBn": "Lohagora",
+    "lat": 23.469102423908577,
+    "lng": 89.77165631868017
+  },
+  {
+    "code": "LOK",
+    "nameEn": "Lokmanpur",
+    "nameBn": "Lokmanpur",
+    "lat": 24.441147380777995,
+    "lng": 89.06334448613738
+  },
+  {
+    "code": "LOL",
+    "nameEn": "Lolitnagar",
+    "nameBn": "Lolitnagar",
+    "lat": 24.371538642182013,
+    "lng": 88.64371350564322
+  },
+  {
+    "code": "MAD",
+    "nameEn": "Madhnagar",
+    "nameBn": "Madhnagar",
+    "lat": 24.6125375,
+    "lng": 89.0761375
+  },
+  {
+    "code": "MADH",
+    "nameEn": "Madhukhali",
+    "nameBn": "Madhukhali",
+    "lat": 23.63834545366072,
+    "lng": 90.10366068753777
+  },
+  {
+    "code": "MAH",
+    "nameEn": "Mahimaganj",
+    "nameBn": "Mahimaganj",
+    "lat": 24.82647176801983,
+    "lng": 89.41744867802993
+  },
+  {
+    "code": "MAI",
+    "nameEn": "Maijdi Court",
+    "nameBn": "Maijdi Court",
+    "lat": 22.814190166411795,
+    "lng": 90.99305870001862
+  },
+  {
+    "code": "MAIJ",
+    "nameEn": "Maijgaon",
+    "nameBn": "Maijgaon",
+    "lat": 24.7667,
+    "lng": 90.5667
+  },
+  {
+    "code": "MAJ",
+    "nameEn": "Majhgram",
+    "nameBn": "Majhgram",
+    "lat": 24.317978684334967,
+    "lng": 89.22246603133226
+  },
+  {
+    "code": "MAN",
+    "nameEn": "Manikkhali",
+    "nameBn": "Manikkhali",
+    "lat": 24.00235605238365,
+    "lng": 91.06286717998204
+  },
+  {
+    "code": "MANM",
+    "nameEn": "Manmathapur",
+    "nameBn": "Manmathapur",
+    "lat": 25.7,
+    "lng": 88.9
+  },
+  {
+    "code": "MEH",
+    "nameEn": "Meher",
+    "nameBn": "Meher",
+    "lat": 23.08383093508833,
+    "lng": 91.17490721860871
+  },
+  {
+    "code": "MEL",
+    "nameEn": "Melandah_Bazar",
+    "nameBn": "Melandah_Bazar",
+    "lat": 24.646179350009305,
+    "lng": 90.04480343195989
+  },
+  {
+    "code": "MET",
+    "nameEn": "Methikanda",
+    "nameBn": "Methikanda",
+    "lat": 24.5667,
+    "lng": 88.9667
+  },
+  {
+    "code": "MIR",
+    "nameEn": "Mirpur",
+    "nameBn": "Mirpur",
+    "lat": 23.7167,
+    "lng": 90.3667
+  },
+  {
+    "code": "MIRZ",
+    "nameEn": "Mirzapur",
+    "nameBn": "Mirzapur",
+    "lat": 24.115599999999997,
+    "lng": 90.16445
+  },
+  {
+    "code": "MOD",
+    "nameEn": "Modhu_Road",
+    "nameBn": "Modhu_Road",
+    "lat": 22.960118195284508,
+    "lng": 91.33183363931441
+  },
+  {
+    "code": "MOH",
+    "nameEn": "Mohanganj",
+    "nameBn": "Mohanganj",
+    "lat": 24.768658606758983,
+    "lng": 90.3480002724808
+  },
+  {
+    "code": "MON",
+    "nameEn": "Mongalpur",
+    "nameBn": "Mongalpur",
+    "lat": 25.55,
+    "lng": 88.7
+  },
+  {
+    "code": "MONT",
+    "nameEn": "Montola",
+    "nameBn": "Montola",
+    "lat": 23.944061182139418,
+    "lng": 91.19669985368705
+  },
+  {
+    "code": "MUB",
+    "nameEn": "Mubarakganj",
+    "nameBn": "Mubarakganj",
+    "lat": 23.153347380777994,
+    "lng": 89.31234448613738
+  },
+  {
+    "code": "MUK",
+    "nameEn": "Muksudpur",
+    "nameBn": "Muksudpur",
+    "lat": 23.65460404210705,
+    "lng": 90.23372505101656
+  },
+  {
+    "code": "MUKU",
+    "nameEn": "Mukundapur",
+    "nameBn": "Mukundapur",
+    "lat": 23.962167146936096,
+    "lng": 91.04925347556343
+  },
+  {
+    "code": "MUL",
+    "nameEn": "Muladhuli",
+    "nameBn": "Muladhuli",
+    "lat": 24.449187499999997,
+    "lng": 89.46091249999999
+  },
+  {
+    "code": "NAC",
+    "nameEn": "Nachole",
+    "nameBn": "Nachole",
+    "lat": 24.55806065451242,
+    "lng": 88.44239934890149
+  },
+  {
+    "code": "NAL",
+    "nameEn": "Naliagram",
+    "nameBn": "Naliagram",
+    "lat": 23.710566727313857,
+    "lng": 89.89901737226747
+  },
+  {
+    "code": "NAN",
+    "nameEn": "Nandangachi",
+    "nameBn": "Nandangachi",
+    "lat": 24.48665832142829,
+    "lng": 89.034873250235
+  },
+  {
+    "code": "NAND",
+    "nameEn": "Nandina",
+    "nameBn": "Nandina",
+    "lat": 24.686749999999996,
+    "lng": 90.192112523131
+  },
+  {
+    "code": "NANG",
+    "nameEn": "Nangolkot",
+    "nameBn": "Nangolkot",
+    "lat": 23.1246,
+    "lng": 91.26115
+  },
+  {
+    "code": "NARA",
+    "nameEn": "Narail",
+    "nameBn": "Narail",
+    "lat": 23.347499458341087,
+    "lng": 89.36251256933825
+  },
+  {
+    "code": "NARU",
+    "nameEn": "Narundi",
+    "nameBn": "Narundi",
+    "lat": 24.72725,
+    "lng": 90.25040417437701
+  },
+  {
+    "code": "NATH",
+    "nameEn": "Natherpetua",
+    "nameBn": "Natherpetua",
+    "lat": 22.966464868995242,
+    "lng": 91.11429534675021
+  },
+  {
+    "code": "NAY",
+    "nameEn": "Nayaniburuj",
+    "nameBn": "Nayaniburuj",
+    "lat": 25.228869086912965,
+    "lng": 89.00468461064817
+  },
+  {
+    "code": "NAYA",
+    "nameEn": "Nayapara",
+    "nameBn": "Nayapara",
+    "lat": 23.97168879081079,
+    "lng": 91.2764229695924
+  },
+  {
+    "code": "NET",
+    "nameEn": "Netrakona",
+    "nameBn": "Netrakona",
+    "lat": 24.902276399176476,
+    "lng": 90.16849678456616
+  },
+  {
+    "code": "NOAK",
+    "nameEn": "Noakhali",
+    "nameBn": "Noakhali",
+    "lat": 22.8696,
+    "lng": 91.0995
+  },
+  {
+    "code": "PAC",
+    "nameEn": "Pachuria",
+    "nameBn": "Pachuria",
+    "lat": 23.688360595059873,
+    "lng": 89.81639770008528
+  },
+  {
+    "code": "PAD",
+    "nameEn": "Padma",
+    "nameBn": "Padma",
+    "lat": 23.70545877751756,
+    "lng": 90.39925169665015
+  },
+  {
+    "code": "PAK",
+    "nameEn": "Paksey",
+    "nameBn": "Paksey",
+    "lat": 24.0714,
+    "lng": 89.028
+  },
+  {
+    "code": "PANC",
+    "nameEn": "Panchagarh",
+    "nameBn": "Panchagarh",
+    "lat": 25.231434543456484,
+    "lng": 89.02734230532408
+  },
+  {
+    "code": "PATI",
+    "nameEn": "Patiya",
+    "nameBn": "Patiya",
+    "lat": 22.39605005171059,
+    "lng": 91.9405251159053
+  },
+  {
+    "code": "PIR",
+    "nameEn": "Pirgacha",
+    "nameBn": "Pirgacha",
+    "lat": 24.803928379946736,
+    "lng": 89.55475005612276
+  },
+  {
+    "code": "PIRG",
+    "nameEn": "Pirganj",
+    "nameBn": "Pirganj",
+    "lat": 25.85,
+    "lng": 88.35
+  },
+  {
+    "code": "PIY",
+    "nameEn": "Piyarpur",
+    "nameBn": "Piyarpur",
+    "lat": 24.6821,
+    "lng": 90.30771669750803
+  },
+  {
+    "code": "POR",
+    "nameEn": "Poradaha",
+    "nameBn": "Poradaha",
+    "lat": 23.728133094143228,
+    "lng": 89.6251611078829
+  },
+  {
+    "code": "PUK",
+    "nameEn": "Pukuria",
+    "nameBn": "Pukuria",
+    "lat": 23.80503795325113,
+    "lng": 90.08543165676349
+  },
+  {
+    "code": "QUA",
+    "nameEn": "Quasba",
+    "nameBn": "Quasba",
+    "lat": 23.716350000000002,
+    "lng": 91.18769999999999
+  },
+  {
+    "code": "RAG",
+    "nameEn": "Raghabpur",
+    "nameBn": "Raghabpur",
+    "lat": 23.959415368960705,
+    "lng": 89.22009899283371
+  },
+  {
+    "code": "RAJS",
+    "nameEn": "Rajshahi",
+    "nameBn": "Rajshahi",
+    "lat": 24.3745,
+    "lng": 88.6042
+  },
+  {
+    "code": "RAJSH",
+    "nameEn": "Rajshahi_Court",
+    "nameBn": "Rajshahi_Court",
+    "lat": 24.336464356443336,
+    "lng": 88.5226322991667
+  },
+  {
+    "code": "RAM",
+    "nameEn": "Ramu",
+    "nameBn": "Ramu",
+    "lat": 21.949075334535387,
+    "lng": 91.95731994214333
+  },
+  {
+    "code": "ROH",
+    "nameEn": "Rohanpur",
+    "nameBn": "Rohanpur",
+    "lat": 24.7667,
+    "lng": 88.3167
+  },
+  {
+    "code": "RUH",
+    "nameEn": "Ruhia",
+    "nameBn": "Ruhia",
+    "lat": 25.3,
+    "lng": 89
+  },
+  {
+    "code": "SAF",
+    "nameEn": "Safdarpur",
+    "nameBn": "Safdarpur",
+    "lat": 23.334067053323476,
+    "lng": 89.16143713181178
+  },
+  {
+    "code": "SAN",
+    "nameEn": "Santahar",
+    "nameBn": "Santahar",
+    "lat": 24.8473,
+    "lng": 89.1191
+  },
+  {
+    "code": "SAR",
+    "nameEn": "Sararchar",
+    "nameBn": "Sararchar",
+    "lat": 24.06683200538527,
+    "lng": 90.9616602064845
+  },
+  {
+    "code": "SARD",
+    "nameEn": "Sardah_Road",
+    "nameBn": "Sardah_Road",
+    "lat": 24.436579160714146,
+    "lng": 88.8155366251175
+  },
+  {
+    "code": "SARI",
+    "nameEn": "Sarishabari",
+    "nameBn": "Sarishabari",
+    "lat": 24.7167,
+    "lng": 89.8333
+  },
+  {
+    "code": "SAT",
+    "nameEn": "Sathia_Rajapur",
+    "nameBn": "Sathia_Rajapur",
+    "lat": 23.92027399605356,
+    "lng": 89.20775776536104
+  },
+  {
+    "code": "SATK",
+    "nameEn": "Satkania",
+    "nameBn": "Satkania",
+    "lat": 22.452203028424428,
+    "lng": 91.92657222291223
+  },
+  {
+    "code": "SHM",
+    "nameEn": "SH M Monsur Ali",
+    "nameBn": "SH M Monsur Ali",
+    "lat": 24.285349999999998,
+    "lng": 89.653125
+  },
+  {
+    "code": "SHA",
+    "nameEn": "Shahaji_Bazar",
+    "nameBn": "Shahaji_Bazar",
+    "lat": 24.05349159310809,
+    "lng": 91.3803422271943
+  },
+  {
+    "code": "SHAI",
+    "nameEn": "Shaistaganj",
+    "nameBn": "Shaistaganj",
+    "lat": 24.143294395405395,
+    "lng": 91.49626148479621
+  },
+  {
+    "code": "SHAM",
+    "nameEn": "Shamshernagar",
+    "nameBn": "Shamshernagar",
+    "lat": 24.48535,
+    "lng": 91.88765
+  },
+  {
+    "code": "SHAS",
+    "nameEn": "Shashidal",
+    "nameBn": "Shashidal",
+    "lat": 23.645175,
+    "lng": 91.17519999999999
+  },
+  {
+    "code": "SHI",
+    "nameEn": "Shibchar",
+    "nameBn": "Shibchar",
+    "lat": 23.71505438875878,
+    "lng": 90.26347584832507
+  },
+  {
+    "code": "SHIB",
+    "nameEn": "Shibganj",
+    "nameBn": "Shibganj",
+    "lat": 25.4,
+    "lng": 88.9
+  },
+  {
+    "code": "SHO",
+    "nameEn": "Sholoshohor",
+    "nameBn": "Sholoshohor",
+    "lat": 22.42053961030679,
+    "lng": 91.84683961030679
+  },
+  {
+    "code": "SHY",
+    "nameEn": "Shyamgonj",
+    "nameBn": "Shyamgonj",
+    "lat": 24.89183430379887,
+    "lng": 90.24781237347607
+  },
+  {
+    "code": "SIN",
+    "nameEn": "Singia",
+    "nameBn": "Singia",
+    "lat": 23.544598916682176,
+    "lng": 89.50382513867649
+  },
+  {
+    "code": "SIR",
+    "nameEn": "Sirajganj_Bazar",
+    "nameBn": "Sirajganj_Bazar",
+    "lat": 23.584999999999997,
+    "lng": 90.35
+  },
+  {
+    "code": "SIRA",
+    "nameEn": "Sirajganjraipur",
+    "nameBn": "Sirajganjraipur",
+    "lat": 23.9520125,
+    "lng": 89.98695625
+  },
+  {
+    "code": "SON",
+    "nameEn": "Sonaimuri",
+    "nameBn": "Sonaimuri",
+    "lat": 22.70762973799049,
+    "lng": 91.10789069350045
+  },
+  {
+    "code": "SONA",
+    "nameEn": "Sonatola",
+    "nameBn": "Sonatola",
+    "lat": 24.822443536039657,
+    "lng": 89.45359735605986
+  },
+  {
+    "code": "SOY",
+    "nameEn": "SOYDABAD",
+    "nameBn": "SOYDABAD",
+    "lat": 24.283675,
+    "lng": 89.6923375
+  },
+  {
+    "code": "SREE",
+    "nameEn": "Sreenagar",
+    "nameBn": "Sreenagar",
+    "lat": 23.80245598315271,
+    "lng": 90.32284247717173
+  },
+  {
+    "code": "SREEP",
+    "nameEn": "Sreepur",
+    "nameBn": "Sreepur",
+    "lat": 24.2106,
+    "lng": 90.4876
+  },
+  {
+    "code": "SUL",
+    "nameEn": "Sultanpur",
+    "nameBn": "Sultanpur",
+    "lat": 25.5,
+    "lng": 88.8
+  },
+  {
+    "code": "TAL",
+    "nameEn": "Talma",
+    "nameBn": "Talma",
+    "lat": 23.706018976625565,
+    "lng": 89.96616582838173
+  },
+  {
+    "code": "TALO",
+    "nameEn": "Talora",
+    "nameBn": "Talora",
+    "lat": 24.842899999999997,
+    "lng": 89.24419999999999
+  },
+  {
+    "code": "TANT",
+    "nameEn": "Tantibandha",
+    "nameBn": "Tantibandha",
+    "lat": 23.92811801290085,
+    "lng": 89.11810024253278
+  },
+  {
+    "code": "TAR",
+    "nameEn": "Tarakandi",
+    "nameBn": "Tarakandi",
+    "lat": 24.784259020761567,
+    "lng": 89.75957226631898
+  },
+  {
+    "code": "TEB",
+    "nameEn": "Tebunia",
+    "nameBn": "Tebunia",
+    "lat": 24.161497923788442,
+    "lng": 89.25980446231358
+  },
+  {
+    "code": "TEE",
+    "nameEn": "Teesta_Junction",
+    "nameBn": "Teesta_Junction",
+    "lat": 25.597307094986686,
+    "lng": 89.4354875140307
+  },
+  {
+    "code": "THA",
+    "nameEn": "Thakrokona",
+    "nameBn": "Thakrokona",
+    "lat": 24.89094615261928,
+    "lng": 90.29800209531808
+  },
+  {
+    "code": "THAK",
+    "nameEn": "Thakurgaon_Road",
+    "nameBn": "Thakurgaon_Road",
+    "lat": 25.95,
+    "lng": 88.45
+  },
+  {
+    "code": "TUS",
+    "nameEn": "Tushbhandar",
+    "nameBn": "Tushbhandar",
+    "lat": 25.88797821183097,
+    "lng": 89.45669959304244
+  }
+]

@@ -1,0 +1,2244 @@
+[
+  {
+    "id": "C0",
+    "stations": [
+      "PAR",
+      "MANM",
+      "CHI",
+      "KAW",
+      "DIN",
+      "KAN",
+      "MON",
+      "SET",
+      "SUL",
+      "PIRG",
+      "BHO",
+      "SHIB",
+      "THAK",
+      "AKH",
+      "RUH",
+      "KISM",
+      "NAY",
+      "PANC"
+    ]
+  },
+  {
+    "id": "C1",
+    "stations": [
+      "PANC",
+      "NAY",
+      "KISM",
+      "RUH",
+      "AKH",
+      "THAK",
+      "SHIB",
+      "BHO",
+      "PIRG",
+      "SUL",
+      "SET",
+      "MON",
+      "KAN",
+      "DIN",
+      "KAW",
+      "CHI",
+      "MANM",
+      "PAR"
+    ]
+  },
+  {
+    "id": "C2",
+    "stations": [
+      "ISH",
+      "AZI",
+      "ABD",
+      "LOK",
+      "ARA",
+      "NAN",
+      "SARD",
+      "RAJS",
+      "RAJSH",
+      "KAK",
+      "LOL",
+      "AMN",
+      "NAC",
+      "ROH"
+    ]
+  },
+  {
+    "id": "C3",
+    "stations": [
+      "ROH",
+      "NAC",
+      "AMN",
+      "LOL",
+      "KAK",
+      "RAJS",
+      "SARD",
+      "NAN",
+      "ARA",
+      "LOK",
+      "ABD",
+      "AZI",
+      "ISH"
+    ]
+  },
+  {
+    "id": "C4",
+    "stations": [
+      "RAJS",
+      "KAK",
+      "LOL",
+      "AMN",
+      "NAC",
+      "ROH"
+    ]
+  },
+  {
+    "id": "C5",
+    "stations": [
+      "ROH",
+      "NAC",
+      "AMN",
+      "LOL",
+      "KAK",
+      "RAJSH",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C6",
+    "stations": [
+      "CHAP",
+      "AMNU",
+      "LOL",
+      "KAK",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C7",
+    "stations": [
+      "CHA",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C8",
+    "stations": [
+      "DHA",
+      "BIM",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C9",
+    "stations": [
+      "CHA",
+      "FEN",
+      "GUN",
+      "LAK",
+      "CUM",
+      "AKHA",
+      "BRA",
+      "BHAI",
+      "NAR",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C10",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAR",
+      "BHAI",
+      "BRA",
+      "AKHA",
+      "CUM",
+      "LAK",
+      "GUN",
+      "FEN",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C11",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "HIT",
+      "TAN",
+      "IBR",
+      "SHM",
+      "ULL",
+      "ISHW",
+      "NAT",
+      "SAN",
+      "AKK",
+      "JOY",
+      "PAN",
+      "BIR",
+      "FUL",
+      "PAR",
+      "CHI",
+      "DIN",
+      "SET",
+      "PIRG",
+      "THAK",
+      "RUH",
+      "KISM",
+      "PANC"
+    ]
+  },
+  {
+    "id": "C12",
+    "stations": [
+      "PANC",
+      "KISM",
+      "RUH",
+      "THAK",
+      "PIRG",
+      "SET",
+      "DIN",
+      "CHI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "PAN",
+      "JOY",
+      "AKK",
+      "SAN",
+      "NAT",
+      "ULL",
+      "IBR",
+      "TAN",
+      "HIT",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C13",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "GAF",
+      "MYM",
+      "PIY",
+      "JAMA",
+      "MEL",
+      "ISLA",
+      "DEW"
+    ]
+  },
+  {
+    "id": "C14",
+    "stations": [
+      "DEW",
+      "ISLA",
+      "MEL",
+      "JAMA",
+      "PIY",
+      "MYM",
+      "GAF",
+      "JOYD",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C15",
+    "stations": [
+      "DHA",
+      "BIM",
+      "BHAI",
+      "BRA",
+      "AZA",
+      "NAYA",
+      "SHAI",
+      "SRE",
+      "BHANU",
+      "KUL",
+      "MAIJ",
+      "SYL"
+    ]
+  },
+  {
+    "id": "C16",
+    "stations": [
+      "SYL",
+      "MAIJ",
+      "KUL",
+      "BHANU",
+      "SRE",
+      "SHAI",
+      "NAYA",
+      "AZA",
+      "BRA",
+      "BHAI",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C17",
+    "stations": [
+      "NOAK",
+      "MAI",
+      "CHOU",
+      "BAJR",
+      "SON",
+      "NATH",
+      "LAK",
+      "CUM",
+      "QUA",
+      "AKHA",
+      "BRA",
+      "ASH",
+      "NAR",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C18",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAR",
+      "BHAI",
+      "ASH",
+      "BRA",
+      "AKHA",
+      "QUA",
+      "CUM",
+      "LAK",
+      "NATH",
+      "SON",
+      "BAJR",
+      "CHOU",
+      "MAI",
+      "NOAK"
+    ]
+  },
+  {
+    "id": "C19",
+    "stations": [
+      "SAN",
+      "BOG",
+      "SONA",
+      "MAH",
+      "BON",
+      "GAI",
+      "BAM",
+      "PIR",
+      "KAU",
+      "TEE",
+      "LAL",
+      "ADI",
+      "KANK",
+      "TUS",
+      "HAT",
+      "BARK",
+      "BAU",
+      "PAT",
+      "BUR"
+    ]
+  },
+  {
+    "id": "C20",
+    "stations": [
+      "BUR",
+      "PAT",
+      "BAU",
+      "BARK",
+      "HAT",
+      "TUS",
+      "KANK",
+      "ADI",
+      "LAL",
+      "TEE",
+      "KAU",
+      "PIR",
+      "BAM",
+      "GAI",
+      "BON",
+      "MAH",
+      "SONA",
+      "BOG",
+      "SAN"
+    ]
+  },
+  {
+    "id": "C21",
+    "stations": [
+      "KHU",
+      "NOA",
+      "JAS",
+      "MUB",
+      "KOT",
+      "SAF",
+      "DAR",
+      "CHU",
+      "ALA",
+      "POR",
+      "MIR",
+      "BHE",
+      "PAK",
+      "ISH",
+      "AZI",
+      "ABD",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C22",
+    "stations": [
+      "RAJS",
+      "AZI",
+      "ISH",
+      "PAK",
+      "BHE",
+      "MIR",
+      "POR",
+      "ALA",
+      "CHU",
+      "DAR",
+      "SAF",
+      "KOT",
+      "MUB",
+      "JAS",
+      "NOA",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C23",
+    "stations": [
+      "DHA",
+      "BIM",
+      "ASH",
+      "BRA",
+      "AZA",
+      "MUKU",
+      "HAR",
+      "MONT",
+      "NAYA",
+      "SHA",
+      "SHAI",
+      "SRE",
+      "BHANU",
+      "KUL",
+      "MAIJ",
+      "SYL"
+    ]
+  },
+  {
+    "id": "C24",
+    "stations": [
+      "SYL",
+      "MAIJ",
+      "KUL",
+      "BHANU",
+      "SRE",
+      "SHAI",
+      "SHA",
+      "NAYA",
+      "MONT",
+      "HAR",
+      "MUKU",
+      "AZA",
+      "BRA",
+      "ASH",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C25",
+    "stations": [
+      "CHA",
+      "FEN",
+      "NANG",
+      "LAK",
+      "CUM",
+      "QUA",
+      "AKHA",
+      "HAR",
+      "NAYA",
+      "SHAI",
+      "SRE",
+      "BHANU",
+      "SHAM",
+      "KUL",
+      "BAR",
+      "MAIJ",
+      "SYL"
+    ]
+  },
+  {
+    "id": "C26",
+    "stations": [
+      "SYL",
+      "MAIJ",
+      "KUL",
+      "SHAM",
+      "BHANU",
+      "SRE",
+      "SHAI",
+      "NAYA",
+      "HAR",
+      "AKHA",
+      "QUA",
+      "CUM",
+      "LAK",
+      "NANG",
+      "FEN",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C27",
+    "stations": [
+      "CHA",
+      "KUMI",
+      "FEN",
+      "NANG",
+      "LAK",
+      "CUM",
+      "QUA",
+      "AKHA",
+      "BRA",
+      "ASH",
+      "BHAI",
+      "NAR",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C28",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAR",
+      "BHAI",
+      "ASH",
+      "BRA",
+      "AKHA",
+      "QUA",
+      "CUM",
+      "LAK",
+      "NANG",
+      "FEN",
+      "KUMI",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C29",
+    "stations": [
+      "CHA",
+      "FEN",
+      "LAK",
+      "CUM",
+      "AKHA",
+      "SHAI",
+      "SRE",
+      "SHAM",
+      "KUL",
+      "MAIJ",
+      "SYL"
+    ]
+  },
+  {
+    "id": "C30",
+    "stations": [
+      "SYL",
+      "MAIJ",
+      "BAR",
+      "KUL",
+      "SHAM",
+      "SRE",
+      "SHAI",
+      "AKHA",
+      "CUM",
+      "LAK",
+      "FEN",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C31",
+    "stations": [
+      "KHU",
+      "DAU",
+      "NOA",
+      "JAS",
+      "MUB",
+      "KOT",
+      "DAR",
+      "CHU",
+      "ALA",
+      "POR",
+      "KUS",
+      "PANG",
+      "RAJ",
+      "FAR",
+      "BHAN",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C32",
+    "stations": [
+      "DHA",
+      "BHAN",
+      "FAR",
+      "RAJ",
+      "PANG",
+      "KUS",
+      "POR",
+      "ALA",
+      "CHU",
+      "DAR",
+      "KOT",
+      "MUB",
+      "JAS",
+      "NOA",
+      "DAU",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C33",
+    "stations": [
+      "KHU",
+      "NOA",
+      "JAS",
+      "MUB",
+      "KOT",
+      "DAR",
+      "CHU",
+      "ALA",
+      "POR",
+      "BHE",
+      "PAK",
+      "ISH",
+      "NAT",
+      "AHS",
+      "SAN",
+      "AKK",
+      "JOY",
+      "BIR",
+      "FUL",
+      "PAR",
+      "SAI",
+      "NIL",
+      "DOM",
+      "CHIL"
+    ]
+  },
+  {
+    "id": "C34",
+    "stations": [
+      "CHIL",
+      "DOM",
+      "NIL",
+      "SAI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "JOY",
+      "AKK",
+      "SAN",
+      "AHS",
+      "NAT",
+      "ISH",
+      "PAK",
+      "BHE",
+      "POR",
+      "ALA",
+      "CHU",
+      "DAR",
+      "KOT",
+      "MUB",
+      "JAS",
+      "NOA",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C35",
+    "stations": [
+      "CHA",
+      "KUMI",
+      "FEN",
+      "HAS",
+      "NANG",
+      "LAK",
+      "CHIT",
+      "MEH",
+      "HAJ",
+      "MOD",
+      "CHAND",
+      "CHAN"
+    ]
+  },
+  {
+    "id": "C36",
+    "stations": [
+      "CHAN",
+      "CHAND",
+      "MOD",
+      "HAJ",
+      "MEH",
+      "CHIT",
+      "LAK",
+      "NANG",
+      "HAS",
+      "FEN",
+      "KUMI",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C37",
+    "stations": [
+      "RAJS",
+      "ABD",
+      "NAT",
+      "MAD",
+      "AHS",
+      "SAN",
+      "AKK",
+      "JOY",
+      "PAN",
+      "BIR",
+      "FUL",
+      "PAR",
+      "SAI",
+      "NIL",
+      "DOM",
+      "CHIL"
+    ]
+  },
+  {
+    "id": "C38",
+    "stations": [
+      "CHIL",
+      "DOM",
+      "NIL",
+      "SAI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "HIL",
+      "PAN",
+      "JOY",
+      "AKK",
+      "SAN",
+      "AHS",
+      "MAD",
+      "NAT",
+      "ABD",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C39",
+    "stations": [
+      "RAJS",
+      "ABD",
+      "NAT",
+      "MAD",
+      "AHS",
+      "SAN",
+      "AKK",
+      "JAM",
+      "JOY",
+      "PAN",
+      "HIL",
+      "BIR",
+      "FUL",
+      "PAR",
+      "SAI",
+      "NIL",
+      "DOM",
+      "CHIL"
+    ]
+  },
+  {
+    "id": "C40",
+    "stations": [
+      "CHIL",
+      "DOM",
+      "NIL",
+      "SAI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "PAN",
+      "JOY",
+      "JAM",
+      "AKK",
+      "SAN",
+      "AHS",
+      "MAD",
+      "NAT",
+      "ABD",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C41",
+    "stations": [
+      "DHA",
+      "BIM",
+      "GAF",
+      "MYM",
+      "NARU",
+      "JAMA",
+      "KEN",
+      "SARI",
+      "TAR"
+    ]
+  },
+  {
+    "id": "C42",
+    "stations": [
+      "TAR",
+      "SARI",
+      "KEN",
+      "JAMA",
+      "NARU",
+      "MYM",
+      "GAF",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C43",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAR",
+      "MET",
+      "BHAI",
+      "KULI",
+      "BAJ",
+      "SAR",
+      "MAN",
+      "GAC",
+      "KIS"
+    ]
+  },
+  {
+    "id": "C44",
+    "stations": [
+      "KIS",
+      "GAC",
+      "MAN",
+      "SAR",
+      "BAJ",
+      "KULI",
+      "BHAI",
+      "MET",
+      "NAR",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C45",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAR",
+      "BHAI",
+      "SHAI",
+      "SRE",
+      "BHANU",
+      "SHAM",
+      "KUL",
+      "BAR",
+      "MAIJ",
+      "SYL"
+    ]
+  },
+  {
+    "id": "C46",
+    "stations": [
+      "SYL",
+      "MAIJ",
+      "BAR",
+      "KUL",
+      "SHAM",
+      "BHANU",
+      "SRE",
+      "SHAI",
+      "BHAI",
+      "NAR",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C47",
+    "stations": [
+      "CHA",
+      "FEN",
+      "LAK",
+      "CUM",
+      "AKHA",
+      "BRA",
+      "BHAI",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C48",
+    "stations": [
+      "DHA",
+      "BIM",
+      "BHAI",
+      "BRA",
+      "AKHA",
+      "CUM",
+      "LAK",
+      "FEN",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C49",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "SREEP",
+      "GAF",
+      "MYM",
+      "PIY",
+      "NAND",
+      "JAMA",
+      "MEL",
+      "ISLA",
+      "DEW"
+    ]
+  },
+  {
+    "id": "C50",
+    "stations": [
+      "DEW",
+      "ISLA",
+      "MEL",
+      "JAMA",
+      "NAND",
+      "PIY",
+      "MYM",
+      "GAF",
+      "SREEP",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C51",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "SREEP",
+      "KAO",
+      "GAF",
+      "MYM",
+      "BID",
+      "PIY",
+      "NARU",
+      "JAMA",
+      "SARI",
+      "TAR"
+    ]
+  },
+  {
+    "id": "C52",
+    "stations": [
+      "TAR",
+      "SARI",
+      "JAMA",
+      "NARU",
+      "PIY",
+      "BID",
+      "MYM",
+      "GAF",
+      "KAO",
+      "SREEP",
+      "JOYD",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C53",
+    "stations": [
+      "KHU",
+      "DAU",
+      "NOA",
+      "JAS",
+      "MUB",
+      "KOT",
+      "DAR",
+      "CHU",
+      "ALA",
+      "POR",
+      "BHE",
+      "ISH",
+      "NAT",
+      "SAN",
+      "AKK",
+      "JOY",
+      "BIR",
+      "FUL",
+      "PAR",
+      "SAI",
+      "NIL",
+      "DOM",
+      "CHIL"
+    ]
+  },
+  {
+    "id": "C54",
+    "stations": [
+      "CHIL",
+      "DOM",
+      "NIL",
+      "SAI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "JOY",
+      "AKK",
+      "SAN",
+      "NAT",
+      "ISH",
+      "BHE",
+      "POR",
+      "ALA",
+      "CHU",
+      "DAR",
+      "KOT",
+      "MUB",
+      "JAS",
+      "NOA",
+      "DAU",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C55",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "TAN",
+      "IBR",
+      "SHM",
+      "ULL",
+      "BOR",
+      "AZI",
+      "NAT",
+      "SAN",
+      "BOG",
+      "SONA",
+      "BON",
+      "GAI",
+      "BAM",
+      "PIR",
+      "KAU",
+      "TEE",
+      "LAL"
+    ]
+  },
+  {
+    "id": "C56",
+    "stations": [
+      "LAL",
+      "TEE",
+      "KAU",
+      "PIR",
+      "BAM",
+      "GAI",
+      "BON",
+      "SONA",
+      "BOG",
+      "SAN",
+      "NAT",
+      "AZI",
+      "BOR",
+      "ULL",
+      "SHM",
+      "IBR",
+      "TAN",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C57",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "MIRZ",
+      "TAN",
+      "IBR",
+      "SHM",
+      "JAMT",
+      "ULL",
+      "BOR",
+      "CHAT",
+      "ISHW",
+      "ABD",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C58",
+    "stations": [
+      "RAJS",
+      "ABD",
+      "ISHW",
+      "CHAT",
+      "BOR",
+      "ULL",
+      "JAMT",
+      "SHM",
+      "IBR",
+      "TAN",
+      "MIRZ",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C59",
+    "stations": [
+      "DHA",
+      "SREE",
+      "MAW",
+      "PAD",
+      "SHI",
+      "BHAN",
+      "PUK",
+      "TAL",
+      "FAR",
+      "AMI",
+      "PAC",
+      "RAJ",
+      "KAL",
+      "PANG",
+      "KHOK",
+      "KUM",
+      "KUS",
+      "POR",
+      "MIR",
+      "BHE",
+      "PAK",
+      "ISH",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C60",
+    "stations": [
+      "RAJS",
+      "ISH",
+      "PAK",
+      "BHE",
+      "MIR",
+      "POR",
+      "KUS",
+      "KUM",
+      "KHOK",
+      "PANG",
+      "KAL",
+      "RAJ",
+      "PAC",
+      "AMI",
+      "FAR",
+      "TAL",
+      "PUK",
+      "BHAN",
+      "SHI",
+      "PAD",
+      "MAW",
+      "SREE",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C61",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "TAN",
+      "IBR",
+      "JAMT",
+      "CHAT",
+      "NAT",
+      "AHS",
+      "SAN",
+      "AKK",
+      "JOY",
+      "PAN",
+      "BIR",
+      "FUL",
+      "PAR",
+      "CHI",
+      "DIN",
+      "SET",
+      "PIRG",
+      "THAK",
+      "RUH",
+      "KISM",
+      "PANC"
+    ]
+  },
+  {
+    "id": "C62",
+    "stations": [
+      "PANC",
+      "KISM",
+      "RUH",
+      "THAK",
+      "PIRG",
+      "SET",
+      "DIN",
+      "CHI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "PAN",
+      "JOY",
+      "AKK",
+      "SAN",
+      "AHS",
+      "NAT",
+      "ISHW",
+      "CHAT",
+      "JAMT",
+      "IBR",
+      "TAN",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C63",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "TAN",
+      "IBR",
+      "SHM",
+      "ULL",
+      "BOR",
+      "CHAT",
+      "ISHW",
+      "ABD",
+      "SARD",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C64",
+    "stations": [
+      "RAJS",
+      "SARD",
+      "ABD",
+      "ISHW",
+      "CHAT",
+      "BOR",
+      "ULL",
+      "SHM",
+      "IBR",
+      "TAN",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C65",
+    "stations": [
+      "RAJS",
+      "ABD",
+      "AZI",
+      "ISH",
+      "PAK",
+      "BHE",
+      "MIR",
+      "POR",
+      "ALA",
+      "CHU",
+      "DAR",
+      "SAF",
+      "KOT",
+      "MUB",
+      "JAS",
+      "NOA",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C66",
+    "stations": [
+      "KHU",
+      "NOA",
+      "JAS",
+      "MUB",
+      "KOT",
+      "DAR",
+      "CHU",
+      "ALA",
+      "POR",
+      "MIR",
+      "BHE",
+      "ISH",
+      "CHAT",
+      "BOR",
+      "ULL",
+      "SHM",
+      "IBR",
+      "TAN",
+      "JOYD",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C67",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "TAN",
+      "IBR",
+      "SHM",
+      "ULL",
+      "BOR",
+      "CHAT",
+      "ISH",
+      "BHE",
+      "POR",
+      "ALA",
+      "CHU",
+      "KOT",
+      "MUB",
+      "JAS",
+      "NOA",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C68",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "IBR",
+      "MUL",
+      "NAT",
+      "AHS",
+      "SAN",
+      "AKK",
+      "JOY",
+      "BIR",
+      "FUL",
+      "PAR",
+      "SAI",
+      "NIL",
+      "DOM",
+      "CHIL"
+    ]
+  },
+  {
+    "id": "C69",
+    "stations": [
+      "CHIL",
+      "DOM",
+      "NIL",
+      "SAI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "JOY",
+      "AKK",
+      "SAN",
+      "AHS",
+      "NAT",
+      "MUL",
+      "IBR",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C70",
+    "stations": [
+      "SAN",
+      "TALO",
+      "BOG",
+      "SONA",
+      "MAH",
+      "BON",
+      "BADI",
+      "GAI",
+      "BAM",
+      "PIR",
+      "KAU",
+      "RAN",
+      "BAD",
+      "KHO",
+      "PAR",
+      "CHI",
+      "DIN",
+      "SET",
+      "PIRG",
+      "BHO",
+      "THAK",
+      "RUH",
+      "KISM",
+      "PANC"
+    ]
+  },
+  {
+    "id": "C71",
+    "stations": [
+      "PANC",
+      "KISM",
+      "RUH",
+      "THAK",
+      "BHO",
+      "PIRG",
+      "SET",
+      "DIN",
+      "CHI",
+      "PAR",
+      "KHO",
+      "BAD",
+      "RAN",
+      "KAU",
+      "PIR",
+      "BAM",
+      "GAI",
+      "BADI",
+      "BON",
+      "MAH",
+      "SONA",
+      "BOG",
+      "TALO",
+      "SAN"
+    ]
+  },
+  {
+    "id": "C72",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "TAN",
+      "IBR",
+      "SHM",
+      "JAMT",
+      "ULL",
+      "BOR",
+      "CHAT",
+      "ISHW",
+      "ABD",
+      "ARA",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C73",
+    "stations": [
+      "RAJS",
+      "ARA",
+      "ABD",
+      "ISHW",
+      "CHAT",
+      "BOR",
+      "SHM",
+      "IBR",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C74",
+    "stations": [
+      "DHA",
+      "BIM",
+      "IBR",
+      "CHAT",
+      "NAT",
+      "SAN",
+      "TALO",
+      "BOG",
+      "SONA",
+      "BON",
+      "GAI",
+      "BAM",
+      "PIR",
+      "KAU",
+      "KUR",
+      "RAN"
+    ]
+  },
+  {
+    "id": "C75",
+    "stations": [
+      "RAN",
+      "KAU",
+      "KUR",
+      "PIR",
+      "BAM",
+      "GAI",
+      "BON",
+      "SONA",
+      "BOG",
+      "TALO",
+      "SAN",
+      "NAT",
+      "IBR",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C76",
+    "stations": [
+      "DHA",
+      "BIM",
+      "BRA",
+      "AZA",
+      "HAR",
+      "SHAI",
+      "SRE",
+      "SHAM",
+      "KUL",
+      "MAIJ",
+      "SYL"
+    ]
+  },
+  {
+    "id": "C77",
+    "stations": [
+      "SYL",
+      "MAIJ",
+      "KUL",
+      "SHAM",
+      "SRE",
+      "SHAI",
+      "HAR",
+      "AZA",
+      "BRA",
+      "BHAI",
+      "NAR",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C78",
+    "stations": [
+      "SIR",
+      "SIRA",
+      "JAMT",
+      "SHM",
+      "SOY",
+      "IBR",
+      "TAN",
+      "MIRZ",
+      "HIT",
+      "JOYD",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C79",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "MIRZ",
+      "TAN",
+      "IBR",
+      "SHM",
+      "JAMT",
+      "SIRA",
+      "SIR"
+    ]
+  },
+  {
+    "id": "C80",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "GAF",
+      "MYM",
+      "GOU",
+      "SHY",
+      "NET",
+      "THA",
+      "BARH",
+      "MOH"
+    ]
+  },
+  {
+    "id": "C81",
+    "stations": [
+      "MOH",
+      "BARH",
+      "THA",
+      "NET",
+      "SHY",
+      "GOU",
+      "MYM",
+      "GAF",
+      "JOYD",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C82",
+    "stations": [
+      "DHAL",
+      "PAB",
+      "ISHW",
+      "AZI",
+      "ABD",
+      "ARA",
+      "SARD",
+      "RAJS",
+      "KAK",
+      "LOL",
+      "AMNU",
+      "CHAP"
+    ]
+  },
+  {
+    "id": "C83",
+    "stations": [
+      "RAJS",
+      "SARD",
+      "ARA",
+      "ABD",
+      "AZI",
+      "ISHW",
+      "MAJ",
+      "DAS",
+      "TEB",
+      "PAB",
+      "RAG",
+      "DUB",
+      "TANT",
+      "SAT",
+      "KASH",
+      "BADH",
+      "DHAL"
+    ]
+  },
+  {
+    "id": "C84",
+    "stations": [
+      "GOB",
+      "BORA",
+      "GOP",
+      "CHANDR",
+      "CHO",
+      "CHAPT",
+      "KAS",
+      "BOA",
+      "MADH",
+      "BAH",
+      "KAL",
+      "PANG",
+      "KHOK",
+      "KUM",
+      "KUS",
+      "POR",
+      "BHE",
+      "ISH",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C85",
+    "stations": [
+      "RAJS",
+      "ISH",
+      "BHE",
+      "POR",
+      "KUS",
+      "KUM",
+      "KHOK",
+      "PANG",
+      "KAL",
+      "NAL",
+      "BAH",
+      "MADH",
+      "BOA",
+      "KAS",
+      "CHAPT",
+      "CHO",
+      "CHANDR",
+      "GOP",
+      "BORA",
+      "KHA",
+      "GOB"
+    ]
+  },
+  {
+    "id": "C86",
+    "stations": [
+      "CHA",
+      "BHAT",
+      "FEN",
+      "LAK",
+      "CUM",
+      "AKHA",
+      "BHAI",
+      "SAR",
+      "KIS",
+      "ATH",
+      "GOU",
+      "MYM",
+      "PIY",
+      "JAMA"
+    ]
+  },
+  {
+    "id": "C87",
+    "stations": [
+      "JAMA",
+      "PIY",
+      "MYM",
+      "GOU",
+      "ATH",
+      "KIS",
+      "SAR",
+      "BHAI",
+      "AKHA",
+      "CUM",
+      "LAK",
+      "FEN",
+      "BHAT",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C88",
+    "stations": [
+      "DHA",
+      "BIM",
+      "GAF",
+      "MYM",
+      "GOU",
+      "SHY",
+      "NET",
+      "THA",
+      "BARH",
+      "MOH"
+    ]
+  },
+  {
+    "id": "C89",
+    "stations": [
+      "MOH",
+      "BARH",
+      "THA",
+      "NET",
+      "SHY",
+      "GOU",
+      "MYM",
+      "GAF",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C90",
+    "stations": [
+      "DHA",
+      "BIM",
+      "RAJS",
+      "CHAP"
+    ]
+  },
+  {
+    "id": "C91",
+    "stations": [
+      "CHAP",
+      "RAJS",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C92",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAT",
+      "SAN",
+      "JOY",
+      "PAR",
+      "DIN",
+      "PIRG",
+      "THAK",
+      "PANC"
+    ]
+  },
+  {
+    "id": "C93",
+    "stations": [
+      "PANC",
+      "THAK",
+      "PIRG",
+      "DIN",
+      "PAR",
+      "JOY",
+      "SAN",
+      "NAT",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C94",
+    "stations": [
+      "BEN",
+      "JHI",
+      "JAS",
+      "MUB",
+      "KOT",
+      "DAR",
+      "CHU",
+      "ALA",
+      "POR",
+      "KUS",
+      "KHOK",
+      "KAL",
+      "RAJ",
+      "FAR",
+      "BHAN",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C95",
+    "stations": [
+      "DHA",
+      "BHAN",
+      "FAR",
+      "RAJ",
+      "KAL",
+      "KHOK",
+      "KUS",
+      "POR",
+      "ALA",
+      "CHU",
+      "DAR",
+      "KOT",
+      "MUB",
+      "JAS",
+      "JHI",
+      "BEN"
+    ]
+  },
+  {
+    "id": "C96",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAT",
+      "MAD",
+      "SAN",
+      "JOY",
+      "PAR",
+      "BAD",
+      "RAN",
+      "KAU",
+      "KUR"
+    ]
+  },
+  {
+    "id": "C97",
+    "stations": [
+      "KUR",
+      "KAU",
+      "RAN",
+      "BAD",
+      "PAR",
+      "JOY",
+      "SAN",
+      "MAD",
+      "NAT",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C98",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "GAF",
+      "MYM",
+      "BID",
+      "NARU",
+      "NAND",
+      "JAMA",
+      "JAF",
+      "SARI",
+      "TAR",
+      "JAG",
+      "HEM",
+      "BHU"
+    ]
+  },
+  {
+    "id": "C99",
+    "stations": [
+      "BHU",
+      "HEM",
+      "JAG",
+      "TAR",
+      "SARI",
+      "JAF",
+      "JAMA",
+      "NAND",
+      "NARU",
+      "BID",
+      "MYM",
+      "GAF",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C100",
+    "stations": [
+      "CHA",
+      "KUMI",
+      "FEN",
+      "HAS",
+      "NANG",
+      "LAK",
+      "CUM",
+      "SHAS",
+      "QUA",
+      "AKHA",
+      "BRA",
+      "BHAI",
+      "MET",
+      "NAR",
+      "BIM",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C101",
+    "stations": [
+      "DHA",
+      "BIM",
+      "NAR",
+      "MET",
+      "BHAI",
+      "BRA",
+      "AKHA",
+      "QUA",
+      "SHAS",
+      "CUM",
+      "LAK",
+      "NANG",
+      "HAS",
+      "FEN",
+      "KUMI",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C102",
+    "stations": [
+      "RAJS",
+      "ABD",
+      "NAT",
+      "MAD",
+      "AHS",
+      "SAN",
+      "AKK",
+      "JOY",
+      "PAN",
+      "BIR",
+      "FUL",
+      "PAR",
+      "CHI",
+      "DIN",
+      "SET",
+      "PIRG",
+      "SHIB",
+      "THAK",
+      "RUH",
+      "KISM",
+      "PANC"
+    ]
+  },
+  {
+    "id": "C103",
+    "stations": [
+      "PANC",
+      "KISM",
+      "RUH",
+      "THAK",
+      "SHIB",
+      "PIRG",
+      "SET",
+      "DIN",
+      "CHI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "PAN",
+      "JOY",
+      "AKK",
+      "SAN",
+      "AHS",
+      "MAD",
+      "NAT",
+      "ABD",
+      "RAJS"
+    ]
+  },
+  {
+    "id": "C104",
+    "stations": [
+      "DHA",
+      "BIM",
+      "JOYD",
+      "ISHW",
+      "AZI",
+      "NAT",
+      "SAN",
+      "JOY",
+      "BIR",
+      "FUL",
+      "PAR",
+      "SAI",
+      "NIL",
+      "DOM",
+      "CHIL"
+    ]
+  },
+  {
+    "id": "C105",
+    "stations": [
+      "CHIL",
+      "DOM",
+      "NIL",
+      "SAI",
+      "PAR",
+      "FUL",
+      "BIR",
+      "JOY",
+      "AKK",
+      "SAN",
+      "NAT",
+      "AZI",
+      "ISHW",
+      "JOYD",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C106",
+    "stations": [
+      "DHA",
+      "BIM",
+      "ISHW",
+      "NAT",
+      "SAN",
+      "BOG",
+      "MAH",
+      "BON",
+      "GAI",
+      "KAU",
+      "LAL",
+      "KANK",
+      "TUS",
+      "HAT",
+      "BARK",
+      "PAT",
+      "BUR"
+    ]
+  },
+  {
+    "id": "C107",
+    "stations": [
+      "LAL",
+      "BUR",
+      "PAT",
+      "BARK",
+      "HAT",
+      "TUS",
+      "KANK",
+      "KAU",
+      "GAI",
+      "BON",
+      "MAH",
+      "BOG",
+      "SAN",
+      "NAT",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C108",
+    "stations": [
+      "COX",
+      "CHA",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C109",
+    "stations": [
+      "DHA",
+      "BIM",
+      "CHA",
+      "COX"
+    ]
+  },
+  {
+    "id": "C110",
+    "stations": [
+      "CHA",
+      "SHO",
+      "JAN",
+      "PATI",
+      "DOH",
+      "SATK",
+      "HARB",
+      "CHAK",
+      "DUL",
+      "RAM",
+      "COX"
+    ]
+  },
+  {
+    "id": "C111",
+    "stations": [
+      "COX",
+      "RAM",
+      "ISL",
+      "DUL",
+      "CHAK",
+      "HARB",
+      "LOH",
+      "SATK",
+      "DOH",
+      "PATI",
+      "GOM",
+      "SHO",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C112",
+    "stations": [
+      "CHA",
+      "SHO",
+      "GOM",
+      "PATI",
+      "DOH",
+      "SATK",
+      "LOH",
+      "HARB",
+      "CHAK",
+      "DUL",
+      "ISL",
+      "RAM",
+      "COX"
+    ]
+  },
+  {
+    "id": "C113",
+    "stations": [
+      "COX",
+      "RAM",
+      "DUL",
+      "CHAK",
+      "HARB",
+      "SATK",
+      "DOH",
+      "PATI",
+      "JAN",
+      "CHA"
+    ]
+  },
+  {
+    "id": "C114",
+    "stations": [
+      "KHU",
+      "NOA",
+      "SIN",
+      "NARA",
+      "LOHA",
+      "KAS",
+      "BHA",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C115",
+    "stations": [
+      "DHA",
+      "BHA",
+      "KAS",
+      "LOHA",
+      "NARA",
+      "SIN",
+      "NOA",
+      "KHU"
+    ]
+  },
+  {
+    "id": "C116",
+    "stations": [
+      "BEN",
+      "JAS",
+      "NARA",
+      "KAS",
+      "MUK",
+      "BHA",
+      "DHA"
+    ]
+  },
+  {
+    "id": "C117",
+    "stations": [
+      "DHA",
+      "BHA",
+      "MUK",
+      "KAS",
+      "NARA",
+      "JAS",
+      "BEN"
+    ]
+  }
+]

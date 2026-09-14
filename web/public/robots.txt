@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Replace with your real domain, e.g. https://trains.example.com
+Sitemap: https://railkhoj.example.com/sitemap.xml

@@ -1,0 +1,1351 @@
+[
+  {
+    "id": "41",
+    "number": "41",
+    "nameEn": "KANCHON INTERCITY COMMUTER (41)",
+    "nameBn": "KANCHON INTERCITY COMMUTER (41)",
+    "corridor": "C0",
+    "off": [],
+    "stops": "PAR*07:40|MANM|CHI|KAW|DIN|KAN|MON|SET|SUL|PIRG|BHO|SHIB|THAK|AKH|RUH|KISM|NAY|PANC#12:00"
+  },
+  {
+    "id": "42",
+    "number": "42",
+    "nameEn": "KANCHON INTERCITY COMMUTER (42)",
+    "nameBn": "KANCHON INTERCITY COMMUTER (42)",
+    "corridor": "C1",
+    "off": [],
+    "stops": "PANC*15:30|NAY|KISM|RUH|AKH|THAK|SHIB|BHO|PIRG|SUL|SET|MON|KAN|DIN|KAW|CHI|MANM|PAR#19:15"
+  },
+  {
+    "id": "57",
+    "number": "57",
+    "nameEn": "RAJSHAHI COMMUTER (57)",
+    "nameBn": "RAJSHAHI COMMUTER (57)",
+    "corridor": "C2",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "ISH*07:00|AZI|ABD|LOK|ARA|NAN|SARD|RAJS|RAJSH|KAK|LOL|AMN|NAC|ROH#11:10"
+  },
+  {
+    "id": "58",
+    "number": "58",
+    "nameEn": "RAJSHAHI COMMUTER (58)",
+    "nameBn": "RAJSHAHI COMMUTER (58)",
+    "corridor": "C3",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "ROH*17:10|NAC|AMN|LOL|KAK|RAJS|SARD|NAN|ARA|LOK|ABD|AZI|ISH#20:40"
+  },
+  {
+    "id": "77",
+    "number": "77",
+    "nameEn": "RAJSHAHI COMMUTER (77)",
+    "nameBn": "RAJSHAHI COMMUTER (77)",
+    "corridor": "C4",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "RAJS*15:00|KAK|LOL|AMN|NAC|ROH#16:30"
+  },
+  {
+    "id": "78",
+    "number": "78",
+    "nameEn": "RAJSHAHI COMMUTER (78)",
+    "nameBn": "RAJSHAHI COMMUTER (78)",
+    "corridor": "C5",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "ROH*12:20|NAC|AMN|LOL|KAK|RAJSH|RAJS#14:00"
+  },
+  {
+    "id": "110",
+    "number": "110",
+    "nameEn": "CHAPAINAWABGANJ SHUTTLE (110)",
+    "nameBn": "CHAPAINAWABGANJ SHUTTLE (110)",
+    "corridor": "C6",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "CHAP*14:15|AMNU|LOL|KAK|RAJS#15:40"
+  },
+  {
+    "id": "701",
+    "number": "701",
+    "nameEn": "SUBORNO EXPRESS (701)",
+    "nameBn": "SUBORNO EXPRESS (701)",
+    "corridor": "C7",
+    "off": [
+      "Monday"
+    ],
+    "stops": "CHA*07:00|DHA#11:55"
+  },
+  {
+    "id": "702",
+    "number": "702",
+    "nameEn": "SUBORNO EXPRESS (702)",
+    "nameBn": "SUBORNO EXPRESS (702)",
+    "corridor": "C8",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*16:30|BIM|CHA#21:25"
+  },
+  {
+    "id": "703",
+    "number": "703",
+    "nameEn": "MAHANAGAR GODHULI (703)",
+    "nameBn": "MAHANAGAR GODHULI (703)",
+    "corridor": "C9",
+    "off": [],
+    "stops": "CHA*15:00|FEN|GUN|LAK|CUM|AKHA|BRA|BHAI|NAR|DHA#20:45"
+  },
+  {
+    "id": "704",
+    "number": "704",
+    "nameEn": "MAHANAGAR PROVATI (704)",
+    "nameBn": "MAHANAGAR PROVATI (704)",
+    "corridor": "C10",
+    "off": [],
+    "stops": "DHA*07:45|BIM|NAR|BHAI|BRA|AKHA|CUM|LAK|GUN|FEN|CHA#13:35"
+  },
+  {
+    "id": "705",
+    "number": "705",
+    "nameEn": "EKOTA EXPRESS (705)",
+    "nameBn": "EKOTA EXPRESS (705)",
+    "corridor": "C11",
+    "off": [],
+    "stops": "DHA*07:45|BIM|JOYD08:35|TAN|IBR|SHM|ULL|ISHW|NAT|SAN|AKK|JOY|PAN|BIR|FUL|PAR|CHI|DIN|SET|PIRG|THAK|RUH|KISM|PANC#17:45"
+  },
+  {
+    "id": "706",
+    "number": "706",
+    "nameEn": "EKOTA EXPRESS (706)",
+    "nameBn": "EKOTA EXPRESS (706)",
+    "corridor": "C12",
+    "off": [],
+    "stops": "PANC*21:10|KISM|RUH|THAK|PIRG|SET|DIN|CHI|PAR|FUL|BIR|PAN|JOY|AKK|SAN|NAT|ULL|IBR|TAN|JOYD|DHA#07:20"
+  },
+  {
+    "id": "707",
+    "number": "707",
+    "nameEn": "TISTA EXPRESS (707)",
+    "nameBn": "TISTA EXPRESS (707)",
+    "corridor": "C13",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*07:30|BIM|JOYD|GAF|MYM|PIY|JAMA|MEL|ISLA|DEW#12:50"
+  },
+  {
+    "id": "708",
+    "number": "708",
+    "nameEn": "TISTA EXPRESS (708)",
+    "nameBn": "TISTA EXPRESS (708)",
+    "corridor": "C14",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DEW*15:00|ISLA|MEL|JAMA|PIY|MYM|GAF|JOYD|BIM|DHA#20:30"
+  },
+  {
+    "id": "709",
+    "number": "709",
+    "nameEn": "PARABAT EXPRESS (709)",
+    "nameBn": "PARABAT EXPRESS (709)",
+    "corridor": "C15",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*06:30|BIM|BHAI|BRA|AZA|NAYA|SHAI|SRE|BHANU|KUL|MAIJ|SYL#13:00"
+  },
+  {
+    "id": "710",
+    "number": "710",
+    "nameEn": "PARABAT EXPRESS (710)",
+    "nameBn": "PARABAT EXPRESS (710)",
+    "corridor": "C16",
+    "off": [
+      "Monday"
+    ],
+    "stops": "SYL*16:00|MAIJ|KUL|BHANU|SRE|SHAI|NAYA|AZA|BRA|BHAI|BIM|DHA#22:40"
+  },
+  {
+    "id": "711",
+    "number": "711",
+    "nameEn": "UPAKUL EXPRESS (711)",
+    "nameBn": "UPAKUL EXPRESS (711)",
+    "corridor": "C17",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "NOAK*06:00|MAI|CHOU|BAJR|SON|NATH|LAK|CUM|QUA|AKHA|BRA|ASH|NAR|BIM|DHA#11:20"
+  },
+  {
+    "id": "712",
+    "number": "712",
+    "nameEn": "UPAKUL EXPRESS (712)",
+    "nameBn": "UPAKUL EXPRESS (712)",
+    "corridor": "C18",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*15:10|BIM|NAR|BHAI|ASH|BRA|AKHA|QUA|CUM|LAK|NATH|SON|BAJR|CHOU|MAI|NOAK#20:40"
+  },
+  {
+    "id": "713",
+    "number": "713",
+    "nameEn": "KOROTOA EXPRESS (713)",
+    "nameBn": "KOROTOA EXPRESS (713)",
+    "corridor": "C19",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "SAN*09:25|BOG|SONA|MAH|BON|GAI|BAM|PIR|KAU|TEE|LAL|ADI|KANK|TUS|HAT|BARK|BAU|PAT|BUR#16:00"
+  },
+  {
+    "id": "714",
+    "number": "714",
+    "nameEn": "KOROTOA EXPRESS (714)",
+    "nameBn": "KOROTOA EXPRESS (714)",
+    "corridor": "C20",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "BUR*16:20|PAT|BAU|BARK|HAT|TUS|KANK|ADI|LAL|TEE|KAU|PIR|BAM|GAI|BON|MAH|SONA|BOG|SAN#22:40"
+  },
+  {
+    "id": "715",
+    "number": "715",
+    "nameEn": "KAPOTAKSHA EXPRESS (715)",
+    "nameBn": "KAPOTAKSHA EXPRESS (715)",
+    "corridor": "C21",
+    "off": [
+      "Friday"
+    ],
+    "stops": "KHU*06:45|NOA|JAS|MUB|KOT|SAF|DAR|CHU|ALA|POR|MIR|BHE|PAK|ISH|AZI|ABD|RAJS#12:20"
+  },
+  {
+    "id": "716",
+    "number": "716",
+    "nameEn": "KAPOTAKSHA EXPRESS (716)",
+    "nameBn": "KAPOTAKSHA EXPRESS (716)",
+    "corridor": "C22",
+    "off": [
+      "Friday"
+    ],
+    "stops": "RAJS*14:30|AZI|ISH|PAK|BHE|MIR|POR|ALA|CHU|DAR|SAF|KOT|MUB|JAS|NOA|KHU#20:25"
+  },
+  {
+    "id": "717",
+    "number": "717",
+    "nameEn": "JAYENTIKA EXPRESS (717)",
+    "nameBn": "JAYENTIKA EXPRESS (717)",
+    "corridor": "C23",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "DHA*11:15|BIM|ASH|BRA|AZA|MUKU|HAR|MONT|NAYA|SHA|SHAI|SRE|BHANU|KUL|MAIJ|SYL#19:00"
+  },
+  {
+    "id": "718",
+    "number": "718",
+    "nameEn": "JAYENTIKA EXPRESS (718)",
+    "nameBn": "JAYENTIKA EXPRESS (718)",
+    "corridor": "C24",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "SYL*12:00|MAIJ|KUL|BHANU|SRE|SHAI|SHA|NAYA|MONT|HAR|MUKU|AZA|BRA|ASH|BIM|DHA#19:15"
+  },
+  {
+    "id": "719",
+    "number": "719",
+    "nameEn": "PAHARIKA EXPRESS (719)",
+    "nameBn": "PAHARIKA EXPRESS (719)",
+    "corridor": "C25",
+    "off": [
+      "Monday"
+    ],
+    "stops": "CHA*07:50|FEN|NANG|LAK|CUM|QUA|AKHA|HAR|NAYA|SHAI|SRE|BHANU|SHAM|KUL|BAR|MAIJ|SYL#15:55"
+  },
+  {
+    "id": "720",
+    "number": "720",
+    "nameEn": "PAHARIKA EXPRESS (720)",
+    "nameBn": "PAHARIKA EXPRESS (720)",
+    "corridor": "C26",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "SYL*10:30|MAIJ|KUL|SHAM|BHANU|SRE|SHAI|NAYA|HAR|AKHA|QUA|CUM|LAK|NANG|FEN|CHA#18:55"
+  },
+  {
+    "id": "721",
+    "number": "721",
+    "nameEn": "MOHANAGAR EXPRESS (721)",
+    "nameBn": "MOHANAGAR EXPRESS (721)",
+    "corridor": "C27",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "CHA*12:30|KUMI|FEN|NANG|LAK|CUM|QUA|AKHA|BRA|ASH|BHAI|NAR|DHA#18:40"
+  },
+  {
+    "id": "722",
+    "number": "722",
+    "nameEn": "MOHANAGAR EXPRESS (722)",
+    "nameBn": "MOHANAGAR EXPRESS (722)",
+    "corridor": "C28",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "DHA*21:20|BIM|NAR|BHAI|ASH|BRA|AKHA|QUA|CUM|LAK|NANG|FEN|KUMI|CHA#03:30"
+  },
+  {
+    "id": "723",
+    "number": "723",
+    "nameEn": "UDAYAN EXPRESS (723)",
+    "nameBn": "UDAYAN EXPRESS (723)",
+    "corridor": "C29",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "CHA*21:45|FEN|LAK|CUM|AKHA|SHAI|SRE|SHAM|KUL|MAIJ|SYL#05:45"
+  },
+  {
+    "id": "724",
+    "number": "724",
+    "nameEn": "UDAYAN EXPRESS (724)",
+    "nameBn": "UDAYAN EXPRESS (724)",
+    "corridor": "C30",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "SYL*22:00|MAIJ|BAR|KUL|SHAM|SRE|SHAI|AKHA|CUM|LAK|FEN|CHA#05:35"
+  },
+  {
+    "id": "725",
+    "number": "725",
+    "nameEn": "SUNDARBAN EXPRESS (725)",
+    "nameBn": "SUNDARBAN EXPRESS (725)",
+    "corridor": "C31",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "KHU*21:45|DAU|NOA|JAS|MUB|KOT|DAR|CHU|ALA|POR|KUS|PANG|RAJ|FAR|BHAN|DHA#05:10"
+  },
+  {
+    "id": "726",
+    "number": "726",
+    "nameEn": "SUNDARBAN EXPRESS (726)",
+    "nameBn": "SUNDARBAN EXPRESS (726)",
+    "corridor": "C32",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*08:00|BHAN|FAR|RAJ|PANG|KUS|POR|ALA|CHU|DAR|KOT|MUB|JAS|NOA|DAU|KHU#15:40"
+  },
+  {
+    "id": "727",
+    "number": "727",
+    "nameEn": "RUPSHA EXPRESS (727)",
+    "nameBn": "RUPSHA EXPRESS (727)",
+    "corridor": "C33",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "KHU*07:15|NOA|JAS|MUB|KOT|DAR|CHU|ALA|POR|BHE|PAK|ISH|NAT|AHS|SAN|AKK|JOY|BIR|FUL|PAR|SAI|NIL|DOM|CHIL#17:00"
+  },
+  {
+    "id": "728",
+    "number": "728",
+    "nameEn": "RUPSHA EXPRESS (728)",
+    "nameBn": "RUPSHA EXPRESS (728)",
+    "corridor": "C34",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "CHIL*08:30|DOM|NIL|SAI|PAR|FUL|BIR|JOY|AKK|SAN|AHS|NAT|ISH|PAK|BHE|POR|ALA|CHU|DAR|KOT|MUB|JAS|NOA|KHU#18:25"
+  },
+  {
+    "id": "729",
+    "number": "729",
+    "nameEn": "MEGHNA EXPRESS (729)",
+    "nameBn": "MEGHNA EXPRESS (729)",
+    "corridor": "C35",
+    "off": [],
+    "stops": "CHA*17:15|KUMI|FEN|HAS|NANG|LAK|CHIT|MEH|HAJ|MOD|CHAND|CHAN#21:25"
+  },
+  {
+    "id": "730",
+    "number": "730",
+    "nameEn": "MEGHNA EXPRESS (730)",
+    "nameBn": "MEGHNA EXPRESS (730)",
+    "corridor": "C36",
+    "off": [],
+    "stops": "CHAN*05:00|CHAND|MOD|HAJ|MEH|CHIT|LAK|NANG|HAS|FEN|KUMI|CHA#09:00"
+  },
+  {
+    "id": "731",
+    "number": "731",
+    "nameEn": "BARENDRA EXPRESS (731)",
+    "nameBn": "BARENDRA EXPRESS (731)",
+    "corridor": "C37",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "RAJS*15:00|ABD|NAT|MAD|AHS|SAN|AKK|JOY|PAN|BIR|FUL|PAR|SAI|NIL|DOM|CHIL#21:30"
+  },
+  {
+    "id": "732",
+    "number": "732",
+    "nameEn": "BARENDRA EXPRESS (732)",
+    "nameBn": "BARENDRA EXPRESS (732)",
+    "corridor": "C38",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "CHIL*05:00|DOM|NIL|SAI|PAR|FUL|BIR|HIL|PAN|JOY|AKK|SAN|AHS|MAD|NAT|ABD|RAJS#11:10"
+  },
+  {
+    "id": "733",
+    "number": "733",
+    "nameEn": "TITUMIR EXPRESS (733)",
+    "nameBn": "TITUMIR EXPRESS (733)",
+    "corridor": "C39",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "RAJS*06:20|ABD|NAT|MAD|AHS|SAN|AKK|JAM|JOY|PAN|HIL|BIR|FUL|PAR|SAI|NIL|DOM|CHIL#13:00"
+  },
+  {
+    "id": "734",
+    "number": "734",
+    "nameEn": "TITUMIR EXPRESS (734)",
+    "nameBn": "TITUMIR EXPRESS (734)",
+    "corridor": "C40",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "CHIL*15:00|DOM|NIL|SAI|PAR|FUL|BIR|PAN|JOY|JAM|AKK|SAN|AHS|MAD|NAT|ABD|RAJS#21:30"
+  },
+  {
+    "id": "735",
+    "number": "735",
+    "nameEn": "AGHNIBINA EXPRESS (735)",
+    "nameBn": "AGHNIBINA EXPRESS (735)",
+    "corridor": "C41",
+    "off": [],
+    "stops": "DHA*11:30|BIM|GAF|MYM|NARU|JAMA|KEN|SARI|TAR#17:00"
+  },
+  {
+    "id": "736",
+    "number": "736",
+    "nameEn": "AGHNIBINA EXPRESS (736)",
+    "nameBn": "AGHNIBINA EXPRESS (736)",
+    "corridor": "C42",
+    "off": [],
+    "stops": "TAR*17:30|SARI|KEN|JAMA|NARU|MYM|GAF|BIM|DHA#22:55"
+  },
+  {
+    "id": "737",
+    "number": "737",
+    "nameEn": "EGAROSINDHUR PROVATI (737)",
+    "nameBn": "EGAROSINDHUR PROVATI (737)",
+    "corridor": "C43",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*07:15|BIM|NAR|MET|BHAI|KULI|BAJ|SAR|MAN|GAC|KIS#11:10"
+  },
+  {
+    "id": "738",
+    "number": "738",
+    "nameEn": "EGAROSINDHUR PROVATI (738)",
+    "nameBn": "EGAROSINDHUR PROVATI (738)",
+    "corridor": "C44",
+    "off": [],
+    "stops": "KIS*06:30|GAC|MAN|SAR|BAJ|KULI|BHAI|MET|NAR|BIM|DHA#10:35"
+  },
+  {
+    "id": "739",
+    "number": "739",
+    "nameEn": "UPABAN EXPRESS (739)",
+    "nameBn": "UPABAN EXPRESS (739)",
+    "corridor": "C45",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*22:00|BIM|NAR|BHAI|SHAI|SRE|BHANU|SHAM|KUL|BAR|MAIJ|SYL#05:00"
+  },
+  {
+    "id": "740",
+    "number": "740",
+    "nameEn": "UPABAN EXPRESS (740)",
+    "nameBn": "UPABAN EXPRESS (740)",
+    "corridor": "C46",
+    "off": [
+      "Monday"
+    ],
+    "stops": "SYL*23:30|MAIJ|BAR|KUL|SHAM|BHANU|SRE|SHAI|BHAI|NAR|BIM|DHA#05:40"
+  },
+  {
+    "id": "741",
+    "number": "741",
+    "nameEn": "TURNA (741)",
+    "nameBn": "TURNA (741)",
+    "corridor": "C47",
+    "off": [],
+    "stops": "CHA*23:30|FEN|LAK|CUM|AKHA|BRA|BHAI|DHA#05:10"
+  },
+  {
+    "id": "742",
+    "number": "742",
+    "nameEn": "TURNA (742)",
+    "nameBn": "TURNA (742)",
+    "corridor": "C48",
+    "off": [],
+    "stops": "DHA*23:15|BIM|BHAI|BRA|AKHA|CUM|LAK|FEN|CHA#05:15"
+  },
+  {
+    "id": "743",
+    "number": "743",
+    "nameEn": "BHRAMMAPUTRA EXPRESS (743)",
+    "nameBn": "BHRAMMAPUTRA EXPRESS (743)",
+    "corridor": "C49",
+    "off": [],
+    "stops": "DHA*18:15|BIM|JOYD|SREEP|GAF|MYM|PIY|NAND|JAMA|MEL|ISLA|DEW#23:50"
+  },
+  {
+    "id": "744",
+    "number": "744",
+    "nameEn": "BHRAMMAPUTRA EXPRESS (744)",
+    "nameBn": "BHRAMMAPUTRA EXPRESS (744)",
+    "corridor": "C50",
+    "off": [],
+    "stops": "DEW*06:40|ISLA|MEL|JAMA|NAND|PIY|MYM|GAF|SREEP|BIM|DHA#12:15"
+  },
+  {
+    "id": "745",
+    "number": "745",
+    "nameEn": "JAMUNA EXPRESS (745)",
+    "nameBn": "JAMUNA EXPRESS (745)",
+    "corridor": "C51",
+    "off": [],
+    "stops": "DHA*16:45|BIM|JOYD|SREEP|KAO|GAF|MYM|BID|PIY|NARU|JAMA|SARI|TAR#23:30"
+  },
+  {
+    "id": "746",
+    "number": "746",
+    "nameEn": "JAMUNA EXPRESS (746)",
+    "nameBn": "JAMUNA EXPRESS (746)",
+    "corridor": "C52",
+    "off": [],
+    "stops": "TAR*02:00|SARI|JAMA|NARU|PIY|BID|MYM|GAF|KAO|SREEP|JOYD|BIM|DHA#08:00"
+  },
+  {
+    "id": "747",
+    "number": "747",
+    "nameEn": "SIMANTA EXPRESS (747)",
+    "nameBn": "SIMANTA EXPRESS (747)",
+    "corridor": "C53",
+    "off": [
+      "Monday"
+    ],
+    "stops": "KHU*21:15|DAU|NOA|JAS|MUB|KOT|DAR|CHU|ALA|POR|BHE|ISH|NAT|SAN|AKK|JOY|BIR|FUL|PAR|SAI|NIL|DOM|CHIL#06:45"
+  },
+  {
+    "id": "748",
+    "number": "748",
+    "nameEn": "SIMANTA EXPRESS (748)",
+    "nameBn": "SIMANTA EXPRESS (748)",
+    "corridor": "C54",
+    "off": [
+      "Monday"
+    ],
+    "stops": "CHIL*18:30|DOM|NIL|SAI|PAR|FUL|BIR|JOY|AKK|SAN|NAT|ISH|BHE|POR|ALA|CHU|DAR|KOT|MUB|JAS|NOA|DAU|KHU#04:10"
+  },
+  {
+    "id": "749",
+    "number": "749",
+    "nameEn": "EGAROSINDHUR GODHULI (749)",
+    "nameBn": "EGAROSINDHUR GODHULI (749)",
+    "corridor": "C43",
+    "off": [],
+    "stops": "DHA*18:45|BIM|NAR|MET|BHAI|KULI|BAJ|SAR|MAN|GAC|KIS#22:40"
+  },
+  {
+    "id": "750",
+    "number": "750",
+    "nameEn": "EGAROSINDHUR GODHULI (750)",
+    "nameBn": "EGAROSINDHUR GODHULI (750)",
+    "corridor": "C44",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "KIS*12:50|GAC|MAN|SAR|BAJ|KULI|BHAI|MET|NAR|BIM|DHA#16:45"
+  },
+  {
+    "id": "751",
+    "number": "751",
+    "nameEn": "LALMONI EXPRESS (751)",
+    "nameBn": "LALMONI EXPRESS (751)",
+    "corridor": "C55",
+    "off": [
+      "Friday"
+    ],
+    "stops": "DHA*21:45|BIM|JOYD|TAN|IBR|SHM|ULL|BOR|AZI|NAT|SAN|BOG|SONA|BON|GAI|BAM|PIR|KAU|TEE|LAL#07:20"
+  },
+  {
+    "id": "752",
+    "number": "752",
+    "nameEn": "LALMONI EXPRESS (752)",
+    "nameBn": "LALMONI EXPRESS (752)",
+    "corridor": "C56",
+    "off": [
+      "Friday"
+    ],
+    "stops": "LAL*09:50|TEE|KAU|PIR|BAM|GAI|BON|SONA|BOG|SAN|NAT|AZI|BOR|ULL|SHM|IBR|TAN|JOYD|DHA#19:45"
+  },
+  {
+    "id": "753",
+    "number": "753",
+    "nameEn": "SILKCITY EXPRESS (753)",
+    "nameBn": "SILKCITY EXPRESS (753)",
+    "corridor": "C57",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "DHA*14:30|BIM|JOYD|MIRZ|TAN|IBR|SHM|JAMT|ULL|BOR|CHAT|ISHW|ABD|RAJS#20:20"
+  },
+  {
+    "id": "754",
+    "number": "754",
+    "nameEn": "SILKCITY EXPRESS (754)",
+    "nameBn": "SILKCITY EXPRESS (754)",
+    "corridor": "C58",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "RAJS*07:40|ABD|ISHW|CHAT|BOR|ULL|JAMT|SHM|IBR|TAN|MIRZ|JOYD|DHA#13:10"
+  },
+  {
+    "id": "755",
+    "number": "755",
+    "nameEn": "MADHUMATI EXPRESS (755)",
+    "nameBn": "MADHUMATI EXPRESS (755)",
+    "corridor": "C59",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "DHA*15:00|SREE|MAW|PAD|SHI|BHAN|PUK|TAL|FAR|AMI|PAC|RAJ|KAL|PANG|KHOK|KUM|KUS|POR|MIR|BHE|PAK|ISH|RAJS#22:30"
+  },
+  {
+    "id": "756",
+    "number": "756",
+    "nameEn": "MADHUMATI EXPRESS (756)",
+    "nameBn": "MADHUMATI EXPRESS (756)",
+    "corridor": "C60",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "RAJS*06:40|ISH|PAK|BHE|MIR|POR|KUS|KUM|KHOK|PANG|KAL|RAJ|PAC|AMI|FAR|TAL|PUK|BHAN|SHI|PAD|MAW|SREE|DHA#14:00"
+  },
+  {
+    "id": "757",
+    "number": "757",
+    "nameEn": "DRUTOJAN EXPRESS (757)",
+    "nameBn": "DRUTOJAN EXPRESS (757)",
+    "corridor": "C61",
+    "off": [],
+    "stops": "DHA*20:45|BIM|JOYD|TAN|IBR|JAMT|CHAT|NAT|AHS|SAN|AKK|JOY|PAN|BIR|FUL|PAR|CHI|DIN|SET|PIRG|THAK|RUH|KISM|PANC#07:10"
+  },
+  {
+    "id": "758",
+    "number": "758",
+    "nameEn": "DRUTOJAN EXPRESS (758)",
+    "nameBn": "DRUTOJAN EXPRESS (758)",
+    "corridor": "C62",
+    "off": [],
+    "stops": "PANC*07:20|KISM|RUH|THAK|PIRG|SET|DIN|CHI|PAR|FUL|BIR|PAN|JOY|AKK|SAN|AHS|NAT|ISHW|CHAT|JAMT|IBR|TAN|JOYD|DHA#18:55"
+  },
+  {
+    "id": "759",
+    "number": "759",
+    "nameEn": "PADMA EXPRESS (759)",
+    "nameBn": "PADMA EXPRESS (759)",
+    "corridor": "C63",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "DHA*22:45|BIM|JOYD|TAN|IBR|SHM|ULL|BOR|CHAT|ISHW|ABD|SARD|RAJS#04:00"
+  },
+  {
+    "id": "760",
+    "number": "760",
+    "nameEn": "PADMA EXPRESS (760)",
+    "nameBn": "PADMA EXPRESS (760)",
+    "corridor": "C64",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "RAJS*16:00|SARD|ABD|ISHW|CHAT|BOR|ULL|SHM|IBR|TAN|JOYD|DHA#21:15"
+  },
+  {
+    "id": "761",
+    "number": "761",
+    "nameEn": "SAGARDARI EXPRESS (761)",
+    "nameBn": "SAGARDARI EXPRESS (761)",
+    "corridor": "C21",
+    "off": [
+      "Monday"
+    ],
+    "stops": "KHU*16:00|NOA|JAS|MUB|KOT|SAF|DAR|CHU|ALA|POR|MIR|BHE|PAK|ISH|AZI|ABD|RAJS#22:00"
+  },
+  {
+    "id": "762",
+    "number": "762",
+    "nameEn": "SAGARDARI EXPRESS (762)",
+    "nameBn": "SAGARDARI EXPRESS (762)",
+    "corridor": "C65",
+    "off": [
+      "Monday"
+    ],
+    "stops": "RAJS*06:00|ABD|AZI|ISH|PAK|BHE|MIR|POR|ALA|CHU|DAR|SAF|KOT|MUB|JAS|NOA|KHU#12:10"
+  },
+  {
+    "id": "763",
+    "number": "763",
+    "nameEn": "CHITRA EXPRESS (763)",
+    "nameBn": "CHITRA EXPRESS (763)",
+    "corridor": "C66",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "KHU*09:00|NOA|JAS|MUB|KOT|DAR|CHU|ALA|POR|MIR|BHE|ISH|CHAT|BOR|ULL|SHM|IBR|TAN|JOYD|BIM|DHA#18:05"
+  },
+  {
+    "id": "764",
+    "number": "764",
+    "nameEn": "CHITRA EXPRESS (764)",
+    "nameBn": "CHITRA EXPRESS (764)",
+    "corridor": "C67",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "DHA*19:30|BIM|JOYD|TAN|IBR|SHM|ULL|BOR|CHAT|ISH|BHE|POR|ALA|CHU|KOT|MUB|JAS|NOA|KHU#04:40"
+  },
+  {
+    "id": "765",
+    "number": "765",
+    "nameEn": "NILSAGAR EXPRESS (765)",
+    "nameBn": "NILSAGAR EXPRESS (765)",
+    "corridor": "C68",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*06:45|BIM|JOYD|IBR|MUL|NAT|AHS|SAN|AKK|JOY|BIR|FUL|PAR|SAI|NIL|DOM|CHIL#16:00"
+  },
+  {
+    "id": "766",
+    "number": "766",
+    "nameEn": "NILSAGAR EXPRESS (766)",
+    "nameBn": "NILSAGAR EXPRESS (766)",
+    "corridor": "C69",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "CHIL*20:00|DOM|NIL|SAI|PAR|FUL|BIR|JOY|AKK|SAN|AHS|NAT|MUL|IBR|JOYD|DHA#05:25"
+  },
+  {
+    "id": "767",
+    "number": "767",
+    "nameEn": "DOLONCHAPA EXPRESS (767)",
+    "nameBn": "DOLONCHAPA EXPRESS (767)",
+    "corridor": "C70",
+    "off": [],
+    "stops": "SAN*11:00|TALO|BOG|SONA|MAH|BON|BADI|GAI|BAM|PIR|KAU|RAN|BAD|KHO|PAR|CHI|DIN|SET|PIRG|BHO|THAK|RUH|KISM|PANC#20:40"
+  },
+  {
+    "id": "768",
+    "number": "768",
+    "nameEn": "DOLONCHAPA EXPRESS (768)",
+    "nameBn": "DOLONCHAPA EXPRESS (768)",
+    "corridor": "C71",
+    "off": [],
+    "stops": "PANC*06:00|KISM|RUH|THAK|BHO|PIRG|SET|DIN|CHI|PAR|KHO|BAD|RAN|KAU|PIR|BAM|GAI|BADI|BON|MAH|SONA|BOG|TALO|SAN#16:15"
+  },
+  {
+    "id": "769",
+    "number": "769",
+    "nameEn": "DHUMKETU EXPRESS (769)",
+    "nameBn": "DHUMKETU EXPRESS (769)",
+    "corridor": "C72",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "DHA*06:00|BIM|JOYD|TAN|IBR|SHM|JAMT|ULL|BOR|CHAT|ISHW|ABD|ARA|RAJS#11:40"
+  },
+  {
+    "id": "770",
+    "number": "770",
+    "nameEn": "DHUMKETU EXPRESS (770)",
+    "nameBn": "DHUMKETU EXPRESS (770)",
+    "corridor": "C73",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "RAJS*23:20|ARA|ABD|ISHW|CHAT|BOR|SHM|IBR|JOYD|DHA#04:40"
+  },
+  {
+    "id": "771",
+    "number": "771",
+    "nameEn": "RANGPUR EXPRESS (771)",
+    "nameBn": "RANGPUR EXPRESS (771)",
+    "corridor": "C74",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*09:10|BIM|IBR|CHAT|NAT|SAN|TALO|BOG|SONA|BON|GAI|BAM|PIR|KAU|KUR|RAN#19:00"
+  },
+  {
+    "id": "772",
+    "number": "772",
+    "nameEn": "RANGPUR EXPRESS (772)",
+    "nameBn": "RANGPUR EXPRESS (772)",
+    "corridor": "C75",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "RAN*20:00|KAU|KUR|PIR|BAM|GAI|BON|SONA|BOG|TALO|SAN|NAT|IBR|DHA#06:00"
+  },
+  {
+    "id": "773",
+    "number": "773",
+    "nameEn": "KALNI EXPRESS (773)",
+    "nameBn": "KALNI EXPRESS (773)",
+    "corridor": "C76",
+    "off": [
+      "Friday"
+    ],
+    "stops": "DHA*14:55|BIM|BRA|AZA|HAR|SHAI|SRE|SHAM|KUL|MAIJ|SYL#21:30"
+  },
+  {
+    "id": "774",
+    "number": "774",
+    "nameEn": "KALNI EXPRESS (774)",
+    "nameBn": "KALNI EXPRESS (774)",
+    "corridor": "C77",
+    "off": [
+      "Friday"
+    ],
+    "stops": "SYL*06:15|MAIJ|KUL|SHAM|SRE|SHAI|HAR|AZA|BRA|BHAI|NAR|BIM|DHA#12:55"
+  },
+  {
+    "id": "775",
+    "number": "775",
+    "nameEn": "SIRAJGANJ EXPRESS (775)",
+    "nameBn": "SIRAJGANJ EXPRESS (775)",
+    "corridor": "C78",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "SIR*06:00|SIRA|JAMT|SHM|SOY|IBR|TAN|MIRZ|HIT|JOYD|BIM|DHA#10:15"
+  },
+  {
+    "id": "776",
+    "number": "776",
+    "nameEn": "SIRAJGANJ EXPRESS (776)",
+    "nameBn": "SIRAJGANJ EXPRESS (776)",
+    "corridor": "C79",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "DHA*16:15|BIM|JOYD|MIRZ|TAN|IBR|SHM|JAMT|SIRA|SIR#20:10"
+  },
+  {
+    "id": "777",
+    "number": "777",
+    "nameEn": "HAWR EXPRESS (777)",
+    "nameBn": "HAWR EXPRESS (777)",
+    "corridor": "C80",
+    "off": [
+      "Friday"
+    ],
+    "stops": "DHA*22:15|BIM|JOYD|GAF|MYM|GOU|SHY|NET|THA|BARH|MOH#04:10"
+  },
+  {
+    "id": "778",
+    "number": "778",
+    "nameEn": "HAWR EXPRESS (778)",
+    "nameBn": "HAWR EXPRESS (778)",
+    "corridor": "C81",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "MOH*08:00|BARH|THA|NET|SHY|GOU|MYM|GAF|JOYD|BIM|DHA#13:55"
+  },
+  {
+    "id": "779",
+    "number": "779",
+    "nameEn": "DHALARCHAR EXPRESS (779)",
+    "nameBn": "DHALARCHAR EXPRESS (779)",
+    "corridor": "C82",
+    "off": [
+      "Thursday"
+    ],
+    "stops": "DHAL*06:30|PAB|ISHW|AZI|ABD|ARA|SARD|RAJS|KAK|LOL|AMNU|CHAP#11:50"
+  },
+  {
+    "id": "780",
+    "number": "780",
+    "nameEn": "DHALARCHAR EXPRESS (780)",
+    "nameBn": "DHALARCHAR EXPRESS (780)",
+    "corridor": "C83",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "RAJS*17:20|SARD|ARA|ABD|AZI|ISHW|MAJ|DAS|TEB|PAB|RAG|DUB|TANT|SAT|KASH|BADH|DHAL#21:15"
+  },
+  {
+    "id": "781",
+    "number": "781",
+    "nameEn": "KISHORGANJ EXPRESS (781)",
+    "nameBn": "KISHORGANJ EXPRESS (781)",
+    "corridor": "C43",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "DHA*10:30|BIM|NAR|MET|BHAI|KULI|BAJ|SAR|MAN|GAC|KIS#14:10"
+  },
+  {
+    "id": "782",
+    "number": "782",
+    "nameEn": "KISHORGANJ EXPRESS (782)",
+    "nameBn": "KISHORGANJ EXPRESS (782)",
+    "corridor": "C44",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "KIS*16:00|GAC|MAN|SAR|BAJ|KULI|BHAI|MET|NAR|BIM|DHA#20:00"
+  },
+  {
+    "id": "783",
+    "number": "783",
+    "nameEn": "TUNGIPARA EXPRESS (783)",
+    "nameBn": "TUNGIPARA EXPRESS (783)",
+    "corridor": "C84",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "GOB*06:30|BORA|GOP|CHANDR|CHO|CHAPT|KAS|BOA|MADH|BAH|KAL|PANG|KHOK|KUM|KUS|POR|BHE|ISH|RAJS#13:15"
+  },
+  {
+    "id": "784",
+    "number": "784",
+    "nameEn": "TUNGIPARA EXPRESS (784)",
+    "nameBn": "TUNGIPARA EXPRESS (784)",
+    "corridor": "C85",
+    "off": [
+      "Monday"
+    ],
+    "stops": "RAJS*15:30|ISH|BHE|POR|KUS|KUM|KHOK|PANG|KAL|NAL|BAH|MADH|BOA|KAS|CHAPT|CHO|CHANDR|GOP|BORA|KHA|GOB#22:10"
+  },
+  {
+    "id": "785",
+    "number": "785",
+    "nameEn": "BIJOY EXPRESS (785)",
+    "nameBn": "BIJOY EXPRESS (785)",
+    "corridor": "C86",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "CHA*09:15|BHAT|FEN|LAK|CUM|AKHA|BHAI|SAR|KIS|ATH|GOU|MYM|PIY|JAMA#18:00"
+  },
+  {
+    "id": "786",
+    "number": "786",
+    "nameEn": "BIJOY EXPRESS (786)",
+    "nameBn": "BIJOY EXPRESS (786)",
+    "corridor": "C87",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "JAMA*20:00|PIY|MYM|GOU|ATH|KIS|SAR|BHAI|AKHA|CUM|LAK|FEN|BHAT|CHA#05:00"
+  },
+  {
+    "id": "787",
+    "number": "787",
+    "nameEn": "SONAR BANGLA EXPRESS (787)",
+    "nameBn": "SONAR BANGLA EXPRESS (787)",
+    "corridor": "C7",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "CHA*17:00|DHA#21:55"
+  },
+  {
+    "id": "788",
+    "number": "788",
+    "nameEn": "SONAR BANGLA EXPRESS (788)",
+    "nameBn": "SONAR BANGLA EXPRESS (788)",
+    "corridor": "C8",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*07:00|BIM|CHA#11:55"
+  },
+  {
+    "id": "789",
+    "number": "789",
+    "nameEn": "MOHONGANJ EXPRESS (789)",
+    "nameBn": "MOHONGANJ EXPRESS (789)",
+    "corridor": "C88",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*13:15|BIM|GAF|MYM|GOU|SHY|NET|THA|BARH|MOH#18:40"
+  },
+  {
+    "id": "790",
+    "number": "790",
+    "nameEn": "MOHONGANJ EXPRESS (790)",
+    "nameBn": "MOHONGANJ EXPRESS (790)",
+    "corridor": "C89",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "MOH*23:00|BARH|THA|NET|SHY|GOU|MYM|GAF|DHA#04:55"
+  },
+  {
+    "id": "791",
+    "number": "791",
+    "nameEn": "BANALATA EXPRESS (791)",
+    "nameBn": "BANALATA EXPRESS (791)",
+    "corridor": "C90",
+    "off": [
+      "Friday"
+    ],
+    "stops": "DHA*13:30|BIM|RAJS|CHAP#19:15"
+  },
+  {
+    "id": "792",
+    "number": "792",
+    "nameEn": "BANALATA EXPRESS (792)",
+    "nameBn": "BANALATA EXPRESS (792)",
+    "corridor": "C91",
+    "off": [
+      "Friday"
+    ],
+    "stops": "CHAP*06:00|RAJS|DHA#11:35"
+  },
+  {
+    "id": "793",
+    "number": "793",
+    "nameEn": "PANCHAGARH EXPRESS (793)",
+    "nameBn": "PANCHAGARH EXPRESS (793)",
+    "corridor": "C92",
+    "off": [],
+    "stops": "DHA*23:30|BIM|NAT|SAN|JOY|PAR|DIN|PIRG|THAK|PANC#09:50"
+  },
+  {
+    "id": "794",
+    "number": "794",
+    "nameEn": "PANCHAGARH EXPRESS (794)",
+    "nameBn": "PANCHAGARH EXPRESS (794)",
+    "corridor": "C93",
+    "off": [],
+    "stops": "PANC*12:10|THAK|PIRG|DIN|PAR|JOY|SAN|NAT|DHA#22:10"
+  },
+  {
+    "id": "795",
+    "number": "795",
+    "nameEn": "BENAPOLE EXPRESS (795)",
+    "nameBn": "BENAPOLE EXPRESS (795)",
+    "corridor": "C94",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "BEN*12:25|JHI|JAS|MUB|KOT|DAR|CHU|ALA|POR|KUS|KHOK|KAL|RAJ|FAR|BHAN|DHA#20:30"
+  },
+  {
+    "id": "796",
+    "number": "796",
+    "nameEn": "BENAPOLE EXPRESS (796)",
+    "nameBn": "BENAPOLE EXPRESS (796)",
+    "corridor": "C95",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*23:30|BHAN|FAR|RAJ|KAL|KHOK|KUS|POR|ALA|CHU|DAR|KOT|MUB|JAS|JHI|BEN#07:00"
+  },
+  {
+    "id": "797",
+    "number": "797",
+    "nameEn": "KURIGRAM EXPRESS (797)",
+    "nameBn": "KURIGRAM EXPRESS (797)",
+    "corridor": "C96",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "DHA*20:00|BIM|NAT|MAD|SAN|JOY|PAR|BAD|RAN|KAU|KUR#05:10"
+  },
+  {
+    "id": "798",
+    "number": "798",
+    "nameEn": "KURIGRAM EXPRESS (798)",
+    "nameBn": "KURIGRAM EXPRESS (798)",
+    "corridor": "C97",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "KUR*07:10|KAU|RAN|BAD|PAR|JOY|SAN|MAD|NAT|DHA#17:05"
+  },
+  {
+    "id": "799",
+    "number": "799",
+    "nameEn": "JAMALPUR EXPRESS (799)",
+    "nameBn": "JAMALPUR EXPRESS (799)",
+    "corridor": "C98",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "DHA*10:00|BIM|JOYD|GAF|MYM|BID|NARU|NAND|JAMA|JAF|SARI|TAR|JAG|HEM|BHU#16:45"
+  },
+  {
+    "id": "800",
+    "number": "800",
+    "nameEn": "JAMALPUR EXPRESS (800)",
+    "nameBn": "JAMALPUR EXPRESS (800)",
+    "corridor": "C99",
+    "off": [
+      "Sunday"
+    ],
+    "stops": "BHU*17:15|HEM|JAG|TAR|SARI|JAF|JAMA|NAND|NARU|BID|MYM|GAF|JOYD|DHA#23:55"
+  },
+  {
+    "id": "801",
+    "number": "801",
+    "nameEn": "CHATTALA EXPRESS (801)",
+    "nameBn": "CHATTALA EXPRESS (801)",
+    "corridor": "C100",
+    "off": [
+      "Friday"
+    ],
+    "stops": "CHA*06:00|KUMI|FEN|HAS|NANG|LAK|CUM|SHAS|QUA|AKHA|BRA|BHAI|MET|NAR|BIM|DHA#12:40"
+  },
+  {
+    "id": "802",
+    "number": "802",
+    "nameEn": "CHATTALA EXPRESS (802)",
+    "nameBn": "CHATTALA EXPRESS (802)",
+    "corridor": "C101",
+    "off": [
+      "Friday"
+    ],
+    "stops": "DHA*14:15|BIM|NAR|MET|BHAI|BRA|AKHA|QUA|SHAS|CUM|LAK|NANG|HAS|FEN|KUMI|CHA#20:30"
+  },
+  {
+    "id": "803",
+    "number": "803",
+    "nameEn": "BANGLABANDHA EXPRESS (803)",
+    "nameBn": "BANGLABANDHA EXPRESS (803)",
+    "corridor": "C102",
+    "off": [
+      "Friday"
+    ],
+    "stops": "RAJS*21:00|ABD|NAT|MAD|AHS|SAN|AKK|JOY|PAN|BIR|FUL|PAR|CHI|DIN|SET|PIRG|SHIB|THAK|RUH|KISM|PANC#04:40"
+  },
+  {
+    "id": "804",
+    "number": "804",
+    "nameEn": "BANGLABANDHA EXPRESS (804)",
+    "nameBn": "BANGLABANDHA EXPRESS (804)",
+    "corridor": "C103",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "PANC*09:00|KISM|RUH|THAK|SHIB|PIRG|SET|DIN|CHI|PAR|FUL|BIR|PAN|JOY|AKK|SAN|AHS|MAD|NAT|ABD|RAJS#17:15"
+  },
+  {
+    "id": "805",
+    "number": "805",
+    "nameEn": "CHILAHATI EXPRESS (805)",
+    "nameBn": "CHILAHATI EXPRESS (805)",
+    "corridor": "C104",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "DHA*17:00|BIM|JOYD|ISHW|AZI|NAT|SAN|JOY|BIR|FUL|PAR|SAI|NIL|DOM|CHIL#02:45"
+  },
+  {
+    "id": "806",
+    "number": "806",
+    "nameEn": "CHILAHATI EXPRESS (806)",
+    "nameBn": "CHILAHATI EXPRESS (806)",
+    "corridor": "C105",
+    "off": [
+      "Saturday"
+    ],
+    "stops": "CHIL*06:00|DOM|NIL|SAI|PAR|FUL|BIR|JOY|AKK|SAN|NAT|AZI|ISHW|JOYD|DHA#14:55"
+  },
+  {
+    "id": "809",
+    "number": "809",
+    "nameEn": "BURIMARI EXPRESS (809)",
+    "nameBn": "BURIMARI EXPRESS (809)",
+    "corridor": "C106",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*08:30|BIM|ISHW|NAT|SAN|BOG|MAH|BON|GAI|KAU|LAL|KANK|TUS|HAT|BARK|PAT|BUR#21:45"
+  },
+  {
+    "id": "810",
+    "number": "810",
+    "nameEn": "BURIMARI EXPRESS (810)",
+    "nameBn": "BURIMARI EXPRESS (810)",
+    "corridor": "C107",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "LAL*21:10|BUR|PAT|BARK|HAT|TUS|KANK|KAU|GAI|BON|MAH|BOG|SAN|NAT|DHA#06:30"
+  },
+  {
+    "id": "813",
+    "number": "813",
+    "nameEn": "COXS BAZAR EXPRESS (813)",
+    "nameBn": "COXS BAZAR EXPRESS (813)",
+    "corridor": "C108",
+    "off": [
+      "Tuesday"
+    ],
+    "stops": "COX*12:30|CHA|DHA#21:00"
+  },
+  {
+    "id": "814",
+    "number": "814",
+    "nameEn": "COXS BAZAR EXPRESS (814)",
+    "nameBn": "COXS BAZAR EXPRESS (814)",
+    "corridor": "C109",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*23:00|BIM|CHA|COX#07:20"
+  },
+  {
+    "id": "815",
+    "number": "815",
+    "nameEn": "PARJOTAK EXPRESS (815)",
+    "nameBn": "PARJOTAK EXPRESS (815)",
+    "corridor": "C108",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "COX*19:45|CHA|DHA#04:20"
+  },
+  {
+    "id": "816",
+    "number": "816",
+    "nameEn": "PARJOTAK EXPRESS (816)",
+    "nameBn": "PARJOTAK EXPRESS (816)",
+    "corridor": "C109",
+    "off": [
+      "Wednesday"
+    ],
+    "stops": "DHA*06:15|BIM|CHA|COX#14:40"
+  },
+  {
+    "id": "821",
+    "number": "821",
+    "nameEn": "SHAIKAT EXPRESS (821)",
+    "nameBn": "SHAIKAT EXPRESS (821)",
+    "corridor": "C110",
+    "off": [
+      "Monday"
+    ],
+    "stops": "CHA*05:50|SHO|JAN|PATI|DOH|SATK|HARB|CHAK|DUL|RAM|COX#09:25"
+  },
+  {
+    "id": "822",
+    "number": "822",
+    "nameEn": "PROBAL EXPRESS (822)",
+    "nameBn": "PROBAL EXPRESS (822)",
+    "corridor": "C111",
+    "off": [
+      "Monday"
+    ],
+    "stops": "COX*10:00|RAM|ISL|DUL|CHAK|HARB|LOH|SATK|DOH|PATI|GOM|SHO|CHA#14:10"
+  },
+  {
+    "id": "823",
+    "number": "823",
+    "nameEn": "PROBAL EXPRESS (823)",
+    "nameBn": "PROBAL EXPRESS (823)",
+    "corridor": "C112",
+    "off": [
+      "Monday"
+    ],
+    "stops": "CHA*15:10|SHO|GOM|PATI|DOH|SATK|LOH|HARB|CHAK|DUL|ISL|RAM|COX#19:00"
+  },
+  {
+    "id": "824",
+    "number": "824",
+    "nameEn": "SHAIKAT EXPRESS (824)",
+    "nameBn": "SHAIKAT EXPRESS (824)",
+    "corridor": "C113",
+    "off": [
+      "Monday"
+    ],
+    "stops": "COX*20:00|RAM|DUL|CHAK|HARB|SATK|DOH|PATI|JAN|CHA#23:50"
+  },
+  {
+    "id": "825",
+    "number": "825",
+    "nameEn": "JAHANABAD EXPRESS (825)",
+    "nameBn": "JAHANABAD EXPRESS (825)",
+    "corridor": "C114",
+    "off": [
+      "Monday"
+    ],
+    "stops": "KHU*06:00|NOA|SIN|NARA|LOHA|KAS|BHA|DHA#09:45"
+  },
+  {
+    "id": "826",
+    "number": "826",
+    "nameEn": "JAHANABAD EXPRESS (826)",
+    "nameBn": "JAHANABAD EXPRESS (826)",
+    "corridor": "C115",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*20:00|BHA|KAS|LOHA|NARA|SIN|NOA|KHU#23:45"
+  },
+  {
+    "id": "827",
+    "number": "827",
+    "nameEn": "RUPOSHI BANGLA EXPRESS (827)",
+    "nameBn": "RUPOSHI BANGLA EXPRESS (827)",
+    "corridor": "C116",
+    "off": [
+      "Monday"
+    ],
+    "stops": "BEN*15:25|JAS|NARA|KAS|MUK|BHA|DHA#19:00"
+  },
+  {
+    "id": "828",
+    "number": "828",
+    "nameEn": "RUPOSHI BANGLA EXPRESS (828)",
+    "nameBn": "RUPOSHI BANGLA EXPRESS (828)",
+    "corridor": "C117",
+    "off": [
+      "Monday"
+    ],
+    "stops": "DHA*10:45|BHA|MUK|KAS|NARA|JAS|BEN#14:25"
+  }
+]
