@@ -1,0 +1,59 @@
+check-data.mjs (677 bytes)
+check-raw.mjs (1012 bytes)
+check-state.mjs (739 bytes)
+check.mjs (776 bytes)
+create-dir.mjs (278 bytes)
+list-files.cjs (702 bytes)
+package.json (669 bytes)
+README.md (4793 bytes)
+server/
+  package-lock.json (31124 bytes)
+  package.json (299 bytes)
+  scripts/
+    fetch-data.mjs (3939 bytes)
+    process-data.mjs (13113 bytes)
+  src/
+    data/
+      corridors.json (27671 bytes)
+      raw-cities.json (36043 bytes)
+      raw-routes.json (325607 bytes)
+      raw-trains.json (20552 bytes)
+      stations.json (24987 bytes)
+      trains.json (33931 bytes)
+    engine/
+      geo.js (7003 bytes)
+      reports.js (1597 bytes)
+      schedule.js (8961 bytes)
+    index.js (9525 bytes)
+  test-engine.mjs (651 bytes)
+test-engine.mjs (503 bytes)
+tree.mjs (1066 bytes)
+web/
+  index.html (1259 bytes)
+  package-lock.json (93091 bytes)
+  package.json (522 bytes)
+  postcss.config.js (87 bytes)
+  public/
+    icon.svg (503 bytes)
+    manifest.webmanifest (423 bytes)
+  src/
+    App.jsx (2406 bytes)
+    components/
+      Header.jsx (2367 bytes)
+      LiveMap.jsx (3290 bytes)
+      Timeline.jsx (2357 bytes)
+      TrainCard.jsx (3942 bytes)
+    i18n.jsx (4831 bytes)
+    index.css (995 bytes)
+    lib/
+      api.js (898 bytes)
+      theme.js (407 bytes)
+    main.jsx (342 bytes)
+    pages/
+      Home.jsx (6671 bytes)
+      Search.jsx (6052 bytes)
+      TrainDetail.jsx (8537 bytes)
+  tailwind.config.js (633 bytes)
+  vite.config.js (227 bytes)
+writer.js (1213 bytes)
+writer.mjs (1099 bytes)

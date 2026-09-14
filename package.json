@@ -1,0 +1,18 @@
+{
+  "name": "bd-train-tracker",
+  "private": true,
+  "version": "0.1.0",
+  "description": "RailKhoj — live Bangladesh Railway train tracking (schedule engine + community reports)",
+  "scripts": {
+    "install:all": "npm install --prefix server --no-audit --no-fund && npm install --prefix web --no-audit --no-fund",
+    "dev:server": "npm run dev --prefix server",
+    "dev:web": "npm run dev --prefix web",
+    "dev": "concurrently -n api,web -c green,cyan \"npm run dev:server\" \"npm run dev:web\"",
+    "build": "npm run build --prefix web",
+    "sitemap": "node server/scripts/gen-sitemap.mjs",
+    "start": "node server/src/index.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
